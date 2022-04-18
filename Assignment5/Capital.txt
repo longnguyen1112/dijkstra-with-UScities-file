@@ -1,0 +1,162 @@
+Augusta
+Montpelier
+Concord
+Boston
+Providence
+Hartford
+Albany
+Trenton
+Dover
+Annapolis
+Harrisburg
+Washington D.C.
+Richmond
+Raleigh
+Columbia
+Charleston
+Columbus
+Lansing
+Indianapolis
+Frankfort
+Nashville
+Atlanta
+Montgomery
+Tallahassee
+Madison
+Springfield
+Jefferson City
+Jackson
+Baton Rouge
+Little Rock
+Des Moines
+St. Paul
+Topeka
+Lincoln
+Austin
+Oaklahoma City
+Pierre
+Bismarck
+Santa Fe
+Cheyenne
+Denver
+Phoenix
+Salt Lake City
+Carson City
+Los Angeles
+San Diego
+Sacramento
+Helena
+Boise
+Salem
+Olympia
+Juneau
+*
+Augusta	Concord	164	154
+Montpelier	Concord	118	117
+Montpelier	Albany	172	200
+Concord	Boston	68	75
+Boston	Providence	50	60
+Boston	Albany	170	174
+Providence	Hartford	96	104
+Providence	Albany	163	171
+Hartford	Albany	114	121
+Hartford	Trenton	187	215
+Albany	Trenton	197	219
+Albany	Harrisburg	293	300
+Trenton	Annapolis	162	180
+Trenton	Harrisburg	127	135
+Dover	Annapolis	64	87
+Annapolis	Harrisburg	112	125
+Annapolis	Washington D.C.	33	48
+Harrisburg	Washington D.C.	121	145
+Harrisburg	Columbus	369	381
+Washington D.C.	Charleston	368	350
+Washington D.C.	Richmond	106	114
+Washington D.C.	Columbus	418	422
+Richmond	Raleigh	157	163
+Richmond	Charleston	315	296
+Richmond	Nashville	613	589
+Raleigh	Columbia	227	214
+Raleigh	Charleston	323	320
+Raleigh	Nashville	544	533
+Columbia	Nashville	443	430
+Columbia	Atlanta	214	205
+Columbia	Tallahassee	400	407
+Charleston	Columbus	163	170
+Charleston	Frankfort	199	186
+Charleston	Nashville	389	359
+Charleston	Atlanta	502	489
+Columbus	Lansing	256	250
+Columbus	Indianapolis	175	171
+Lansing	Indianapolis	251	239
+Lansing	Madison	364	377
+Lansing	Springfield	390	387
+Indianapolis	Frankfort	165	165
+Indianapolis	Madison	330	345
+Indianapolis	Springfield	206	208
+Frankfort	Nashville	209	199
+Frankfort	Jefferson City	446	416
+Frankfort	Little Rock	557	518
+Nashville	Atlanta	250	244
+Nashville	Jefferson City	441	422
+Nashville	Little Rock	350	324
+Atlanta	Montgomery	160	151
+Atlanta	Tallahassee	274	276
+Atlanta	Jackson	382	360
+Atlanta	Baton Rouge	525	483
+Montgomery	Baton Rouge	366	334
+Tallahassee	Baton Rouge	442	406
+Madison	Springfield	263	264
+Madison	Des Moines	293	290
+Madison	St. Paul	260	261
+Springfield	Jefferson City	195	213
+Springfield	Des Moines	337	321
+Jefferson City	Jackson	609	563
+Jefferson City	Little Rock	345	378
+Jefferson City	Topeka	220	209
+Jefferson City	Oaklahoma City	420	388
+Jackson	Baton Rouge	176	164
+Jackson	Little Rock	266	277
+Baton Rouge	Austin	436	423
+Baton Rouge	Oaklahoma City	648	602
+Little Rock	Austin	515	485
+Little Rock	Oaklahoma City	339	308
+Des Moines	St. Paul	245	226
+Des Moines	Topeka	256	239
+Des Moines	Lincoln	188	183
+St. Paul	Pierre	488	433
+St. Paul	Bismarck	437	391
+Topeka	Lincoln	165	172
+Topeka	Oaklahoma City	293	272
+Topeka	Denver	540	485
+Lincoln	Pierre	455	411
+Lincoln	Cheyenne	445	377
+Austin	Oaklahoma City	388	374
+Austin	Phoenix	1008	862
+Oaklahoma City	Santa Fe	534	519
+Pierre	Bismarck	210	210
+Pierre	Helena	730	666
+Bismarck	Helena	654	556
+Santa Fe	Denver	395	354
+Santa Fe	Phoenix	479	448
+Cheyenne	Denver	101	98
+Cheyenne	Salt Lake City	439	378
+Cheyenne	Helena	693	612
+Denver	San Diego	1079	975
+Phoenix	San Diego	355	328
+Salt Lake City	Los Angeles	689	617
+Salt Lake City	Helena	484	417
+Salt Lake City	Boise	342	301
+Carson City	Los Angeles	438	568
+Carson City	Sacramento	132	163
+Los Angeles	San Diego	121	129
+Los Angeles	Sacramento	385	355
+San Diego	Sacramento	506	482
+Sacramento	Salem	537	517
+Helena	Boise	553	469
+Helena	Olympia	629	582
+Boise	Salem	477	466
+Boise	Olympia	535	515
+Salem	Olympia	160	168
+Olympia	Juneau	1105	1870
+*

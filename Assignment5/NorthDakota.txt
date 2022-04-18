@@ -1,0 +1,4772 @@
+Zeeland
+Zap
+Zahl
+Ypsilanti
+York
+Wyndmere
+Woodworth
+Wolford
+Wishek
+Wing
+Wimbledon
+Wilton
+Willow City
+Williston
+Wildrose
+White Earth
+Wheatland
+Westhope
+Westby
+West Fargo
+Webster
+Watford City
+Washburn
+Warwick
+Walhalla
+Wales
+Walcott
+Wahpeton
+Voltaire
+Verona
+Venturia
+Velva
+Valley City
+Upham
+Underwood
+Tuttle
+Turtle Lake
+Trenton
+Towner
+Tower City
+Tolna
+Tolley
+Tokio
+Tioga
+Thompson
+Taylor
+Tappen
+Sykeston
+Sutton
+Surrey
+Streeter
+Strasburg
+Stirum
+Sterling
+Steele
+Starkweather
+Stanton
+Stanley
+Spiritwood
+South Heart
+Souris
+Solen
+Shields
+Sheyenne
+Sherwood
+Sheldon
+Sharon
+Sentinel Butte
+Selfridge
+Scranton
+Sawyer
+Sarles
+Sanborn
+Saint Thomas
+Saint Michael
+Saint John
+Saint Anthony
+Ryder
+Rutland
+Ruso
+Rugby
+Ross
+Roseglen
+Rolla
+Rolette
+Rogers
+Rocklake
+Robinson
+Riverdale
+Richardton
+Rhame
+Reynolds
+Regent
+Regan
+Reeder
+Ray
+Raleigh
+Powers Lake
+Portland
+Portal
+Poplar Grove
+Plaza
+Pisek
+Pingree
+Pillsbury
+Pettibone
+Petersburg
+Perth
+Penn
+Pembina
+Pekin
+Parshall
+Park River
+Palermo
+Page
+Osnabrock
+Orrin
+Oriska
+Orange
+Oberon
+Oakes
+Norwich
+Northwood
+Noonan
+Nome
+Niagara
+Newburg
+New Town
+New Salem
+New Rockford
+New Leipzig
+New England
+Nekoma
+Neche
+Napoleon
+Mylo
+Munich
+Mountain
+Mott
+Mooreton
+Montpelier
+Mohall
+Moffit
+Minto
+Minot AFB
+Minot
+Minnewaukan
+Milton
+Milnor
+Michigan
+Mercer
+Menoken
+Mekinock
+Medora
+Medina
+McVille
+McLeod
+McKenzie
+McHenry
+McGregor
+McClusky
+Mayville
+Maxbass
+Max
+Martin
+Marshall
+Marmarth
+Marion
+Mapleton
+Manvel
+Mantador
+Manning
+Mandaree
+Mandan
+Makoti
+Maida
+Maddock
+Luverne
+Litchville
+Lisbon
+Linton
+Lignite
+Lidgerwood
+Leonard
+Lemmon
+Lehr
+Lefor
+Leeds
+Lawton
+Larimore
+Lansford
+Lankin
+Langdon
+LaMoure
+Lakota
+Kulm
+Kramer
+Knox
+Kintyre
+Kindred
+Killdeer
+Kief
+Kensal
+Kenmare
+Keene
+Kathryn
+Karlsruhe
+Jud
+Jessie
+Jamestown
+Inkster
+Hurdsfield
+Hunter
+Horace
+Hope
+Hoople
+Hillsboro
+Hettinger
+Hensel
+Hebron
+Hazen
+Hazelton
+Havana
+Hatton
+Harwood
+Harvey
+Hansboro
+Hannah
+Hannaford
+Hankinson
+Hampden
+Hamilton
+Hamberg
+Halliday
+Hague
+Gwinner
+Grenora
+Great Bend
+Grassy Butte
+Granville
+Grandin
+Grandfield
+Grand Forks AFB
+Grand Forks
+Grafton
+Grace City
+Goodrich
+Golva
+Golden Valley
+Glenfield
+Glenburn
+Glen Ullin
+Glasston
+Gladstone
+Gilby
+Garrison
+Gardner
+Galesburg
+Gackle
+Fullerton
+Fredonia
+Fortuna
+Fort Yates
+Fort Totten
+Fort Ransom
+Forman
+Forest River
+Fordville
+Forbes
+Flaxton
+Flasher
+Finley
+Fingal
+Fessenden
+Farmington
+Fargo
+Fairmount
+Fairfield
+Fairdale
+Esmond
+Erie
+Epping
+Enderlin
+Emerado
+Ellendale
+Elgin
+Egeland
+Edmore
+Edinburg
+Edgeley
+Eckelson
+Dunseith
+Dunn Center
+Driscoll
+Drayton
+Drake
+Douglas
+Donnybrook
+Dodge
+Dickinson
+Dickey
+Devils Lake
+Des Lacs
+Denhoff
+Deering
+Dazey
+Dawson
+Davenport
+Dahlen
+Cummings
+Crystal
+Crosby
+Crary
+Courtenay
+Cooperstown
+Columbus
+Colquhoun
+Colfax
+Coleharbor
+Cogswell
+Clifford
+Cleveland
+Clay
+Churchs Ferry
+Christine
+Chaseley
+Chaffee
+Center
+Cayuga
+Cavalier
+Cathay
+Casselton
+Cartwright
+Carson
+Carrington
+Carpio
+Canton City
+Cannon Ball
+Cando
+Calvin
+Caledonia
+Buxton
+Butte
+Burlington
+Buffalo
+Buchanan
+Brocket
+Brinsmade
+Bremen
+Braddock
+Bowman
+Bowdon
+Bowbells
+Bottineau
+Blanchard
+Bismarck
+Bisbee
+Binford
+Beulah
+Berthold
+Berlin
+Benedict
+Belfield
+Belcourt
+Beach
+Bathgate
+Barney
+Bantry
+Balta
+Balfour
+Baldwin
+Ayr
+Ashley
+Arvilla
+Arthur
+Arnegard
+Argusville
+Ardoch
+Antler
+Aneta
+Anamoose
+Amidon
+Amenia
+Ambrose
+Alsen
+Almont
+Alexander
+Alamo
+Agate
+Adams
+Absaraka
+Abercrombie
+*
+Zeeland	Wishek	33	49
+Zeeland	Venturia	20	30
+Zeeland	Strasburg	25	36
+Zeeland	Napoleon	40	55
+Zeeland	Linton	34	45
+Zeeland	Lehr	44	59
+Zeeland	Hague	11	20
+Zeeland	Ashley	27	37
+Zap	Washburn	46	52
+Zap	Stanton	27	35
+Zap	Riverdale	41	46
+Zap	Marshall	32	34
+Zap	Killdeer	43	46
+Zap	Hazen	14	21
+Zap	Halliday	23	26
+Zap	Golden Valley	7	11
+Zap	Glen Ullin	42	50
+Zap	Dunn Center	35	38
+Zap	Dodge	13	16
+Zap	Center	40	46
+Zap	Beulah	9	16
+Zahl	Williston	33	37
+Zahl	Wildrose	27	32
+Zahl	Westby	46	55
+Zahl	Trenton	45	50
+Zahl	Tioga	49	55
+Zahl	Ray	40	41
+Zahl	McGregor	36	40
+Zahl	Grenora	12	16
+Zahl	Fortuna	34	37
+Zahl	Epping	37	41
+Zahl	Crosby	42	47
+Zahl	Ambrose	36	42
+Zahl	Alamo	10	14
+Ypsilanti	Wimbledon	35	60
+Ypsilanti	Valley City	35	45
+Ypsilanti	Spiritwood	16	30
+Ypsilanti	Sanborn	27	41
+Ypsilanti	Rogers	38	48
+Ypsilanti	Pingree	37	45
+Ypsilanti	Oriska	46	53
+Ypsilanti	Montpelier	19	30
+Ypsilanti	Medina	43	48
+Ypsilanti	Marion	38	48
+Ypsilanti	Litchville	44	54
+Ypsilanti	Kensal	47	60
+Ypsilanti	Jud	34	48
+Ypsilanti	Jamestown	16	27
+Ypsilanti	Gackle	39	48
+Ypsilanti	Edgeley	38	46
+Ypsilanti	Eckelson	22	36
+Ypsilanti	Dickey	37	54
+Ypsilanti	Dazey	46	58
+Ypsilanti	Courtenay	44	59
+Ypsilanti	Cleveland	34	41
+Ypsilanti	Buchanan	29	38
+Ypsilanti	Berlin	49	57
+York	Wolford	19	45
+York	Willow City	46	50
+York	Webster	49	49
+York	Towner	40	39
+York	Sheyenne	49	49
+York	Saint Michael	47	51
+York	Rugby	21	26
+York	Poplar Grove	44	54
+York	Penn	24	24
+York	Orrin	46	60
+York	Oberon	41	50
+York	Mylo	24	60
+York	Minnewaukan	29	30
+York	Maddock	26	37
+York	Leeds	7	9
+York	Knox	6	9
+York	Hamberg	40	60
+York	Fort Totten	46	50
+York	Esmond	31	40
+York	Egeland	48	54
+York	Devils Lake	37	35
+York	Churchs Ferry	19	20
+York	Cando	32	33
+York	Brinsmade	18	30
+York	Bremen	47	60
+York	Balta	35	39
+Wyndmere	Walcott	29	40
+Wyndmere	Wahpeton	26	29
+Wyndmere	Stirum	35	40
+Wyndmere	Sheldon	39	47
+Wyndmere	Rutland	32	40
+Wyndmere	Mooreton	13	16
+Wyndmere	Milnor	16	19
+Wyndmere	McLeod	20	40
+Wyndmere	Mantador	15	23
+Wyndmere	Lisbon	38	38
+Wyndmere	Lidgerwood	14	19
+Wyndmere	Leonard	32	34
+Wyndmere	Kindred	32	37
+Wyndmere	Horace	45	49
+Wyndmere	Havana	45	49
+Wyndmere	Hankinson	27	33
+Wyndmere	Gwinner	27	30
+Wyndmere	Great Bend	24	28
+Wyndmere	Forman	34	37
+Wyndmere	Fairmount	41	43
+Wyndmere	Enderlin	47	50
+Wyndmere	Davenport	40	47
+Wyndmere	Colfax	31	33
+Wyndmere	Cogswell	41	47
+Wyndmere	Christine	38	39
+Wyndmere	Chaffee	47	58
+Wyndmere	Cayuga	25	30
+Wyndmere	Casselton	49	53
+Wyndmere	Barney	7	11
+Wyndmere	Abercrombie	33	41
+Woodworth	Wing	46	57
+Woodworth	Tuttle	33	42
+Woodworth	Tappen	35	51
+Woodworth	Sykeston	27	52
+Woodworth	Streeter	36	56
+Woodworth	Robinson	23	30
+Woodworth	Pingree	20	28
+Woodworth	Pettibone	12	18
+Woodworth	Medina	18	32
+Woodworth	Kensal	48	56
+Woodworth	Jamestown	41	47
+Woodworth	Gackle	47	60
+Woodworth	Dawson	41	57
+Woodworth	Cleveland	28	45
+Woodworth	Chaseley	47	60
+Woodworth	Cathay	34	60
+Woodworth	Carrington	42	48
+Woodworth	Buchanan	28	36
+Woodworth	Bowdon	41	60
+Wolford	Willow City	30	33
+Wolford	Towner	46	50
+Wolford	Starkweather	40	52
+Wolford	Saint John	36	60
+Wolford	Rugby	25	30
+Wolford	Rolla	28	54
+Wolford	Rolette	17	31
+Wolford	Rocklake	47	54
+Wolford	Perth	29	56
+Wolford	Penn	45	50
+Wolford	Mylo	13	31
+Wolford	Maddock	45	60
+Wolford	Leeds	27	47
+Wolford	Knox	13	37
+Wolford	Egeland	38	48
+Wolford	Dunseith	37	42
+Wolford	Churchs Ferry	38	44
+Wolford	Cando	23	26
+Wolford	Bisbee	25	38
+Wolford	Balta	41	50
+Wolford	Agate	18	38
+Wishek	Venturia	19	32
+Wishek	Streeter	38	48
+Wishek	Strasburg	43	48
+Wishek	Napoleon	28	33
+Wishek	Linton	33	39
+Wishek	Lehr	10	14
+Wishek	Kulm	31	37
+Wishek	Kintyre	41	54
+Wishek	Jud	48	60
+Wishek	Hazelton	49	55
+Wishek	Hague	37	52
+Wishek	Gackle	46	58
+Wishek	Fredonia	24	31
+Wishek	Edgeley	44	49
+Wishek	Ashley	26	39
+Wing	Tappen	48	52
+Wing	Wilton	25	31
+Wing	Washburn	40	45
+Wing	Tuttle	13	18
+Wing	Sterling	23	28
+Wing	Steele	35	43
+Wing	Robinson	23	31
+Wing	Regan	13	18
+Wing	Pettibone	37	49
+Wing	Moffit	32	37
+Wing	Mercer	47	54
+Wing	Menoken	35	39
+Wing	McKenzie	28	32
+Wing	McClusky	34	38
+Wing	Hurdsfield	38	44
+Wing	Hazelton	46	50
+Wing	Goodrich	32	38
+Wing	Driscoll	30	34
+Wing	Denhoff	25	31
+Wing	Dawson	48	50
+Wing	Chaseley	43	48
+Wing	Bowdon	49	55
+Wing	Bismarck	46	49
+Wing	Baldwin	34	38
+Wimbledon	Valley City	39	41
+Wimbledon	Sutton	17	47
+Wimbledon	Spiritwood	18	35
+Wimbledon	Sanborn	30	34
+Wimbledon	Rogers	19	21
+Wimbledon	Pingree	49	56
+Wimbledon	Pillsbury	35	51
+Wimbledon	Montpelier	49	60
+Wimbledon	McHenry	34	41
+Wimbledon	Luverne	30	47
+Wimbledon	Kensal	22	31
+Wimbledon	Jamestown	29	44
+Wimbledon	Hope	46	60
+Wimbledon	Hannaford	22	34
+Wimbledon	Grace City	44	56
+Wimbledon	Glenfield	25	30
+Wimbledon	Eckelson	35	41
+Wimbledon	Dazey	13	26
+Wimbledon	Courtenay	8	13
+Wimbledon	Cooperstown	34	47
+Wimbledon	Carrington	46	54
+Wimbledon	Buchanan	24	49
+Wimbledon	Binford	47	54
+Wilton	Washburn	16	19
+Wilton	Underwood	29	32
+Wilton	Tuttle	38	45
+Wilton	Turtle Lake	35	41
+Wilton	Sterling	47	49
+Wilton	Stanton	39	44
+Wilton	Saint Anthony	44	52
+Wilton	Robinson	48	58
+Wilton	Riverdale	42	46
+Wilton	Regan	14	20
+Wilton	Mercer	26	30
+Wilton	Menoken	35	39
+Wilton	McKenzie	41	42
+Wilton	McClusky	38	43
+Wilton	Mandan	29	33
+Wilton	Hazen	49	53
+Wilton	Denhoff	49	56
+Wilton	Coleharbor	36	38
+Wilton	Center	40	43
+Wilton	Bismarck	25	29
+Wilton	Baldwin	11	14
+Willow City	Upham	49	60
+Willow City	Towner	22	41
+Willow City	Souris	36	43
+Willow City	Rugby	25	29
+Willow City	Rolla	48	51
+Willow City	Rolette	26	39
+Willow City	Mylo	38	55
+Willow City	Kramer	41	49
+Willow City	Knox	40	44
+Willow City	Granville	45	60
+Willow City	Dunseith	27	30
+Willow City	Bottineau	20	23
+Willow City	Bisbee	49	60
+Willow City	Belcourt	42	44
+Willow City	Bantry	36	60
+Willow City	Balta	40	49
+Willow City	Agate	44	60
+Williston	Watford City	46	54
+Williston	Trenton	13	19
+Williston	Tioga	49	55
+Williston	Ray	35	39
+Williston	Grenora	44	51
+Williston	Epping	20	31
+Williston	Cartwright	37	41
+Williston	Arnegard	39	44
+Williston	Alexander	26	31
+Williston	Alamo	37	43
+Wildrose	White Earth	44	55
+Wildrose	Tioga	30	36
+Wildrose	Ray	21	28
+Wildrose	Powers Lake	31	36
+Wildrose	Noonan	28	53
+Wildrose	McGregor	16	20
+Wildrose	Grenora	39	45
+Wildrose	Epping	32	41
+Wildrose	Crosby	34	42
+Wildrose	Columbus	48	54
+Wildrose	Ambrose	44	53
+Wildrose	Alamo	17	22
+White Earth	Tioga	15	27
+White Earth	Stanley	22	30
+White Earth	Ross	29	36
+White Earth	Ray	22	32
+White Earth	Powers Lake	22	47
+White Earth	Palermo	31	39
+White Earth	New Town	43	59
+White Earth	McGregor	29	40
+White Earth	Lignite	48	60
+White Earth	Epping	35	46
+Wheatland	West Fargo	23	23
+Wheatland	Walcott	46	53
+Wheatland	Valley City	34	34
+Wheatland	Tower City	20	24
+Wheatland	Sheldon	41	45
+Wheatland	Sanborn	47	47
+Wheatland	Pillsbury	44	46
+Wheatland	Page	32	37
+Wheatland	Oriska	25	27
+Wheatland	Nome	41	43
+Wheatland	Mapleton	16	18
+Wheatland	Lisbon	48	60
+Wheatland	Leonard	25	27
+Wheatland	Kindred	34	39
+Wheatland	Kathryn	49	60
+Wheatland	Hunter	26	37
+Wheatland	Horace	30	34
+Wheatland	Hope	46	49
+Wheatland	Hillsboro	49	60
+Wheatland	Harwood	31	36
+Wheatland	Gardner	49	48
+Wheatland	Galesburg	28	60
+Wheatland	Fingal	35	39
+Wheatland	Fargo	31	33
+Wheatland	Erie	16	38
+Wheatland	Enderlin	32	48
+Wheatland	Davenport	32	37
+Wheatland	Clifford	46	60
+Wheatland	Christine	47	45
+Wheatland	Chaffee	9	19
+Wheatland	Casselton	10	14
+Wheatland	Buffalo	15	20
+Wheatland	Blanchard	36	47
+Wheatland	Ayr	15	39
+Wheatland	Arthur	20	29
+Wheatland	Argusville	33	42
+Wheatland	Amenia	13	24
+Wheatland	Absaraka	7	18
+Westhope	Upham	37	50
+Westhope	Tolley	49	54
+Westhope	Souris	15	29
+Westhope	Sherwood	32	56
+Westhope	Newburg	18	28
+Westhope	Mohall	32	34
+Westhope	Minot AFB	48	54
+Westhope	Maxbass	19	26
+Westhope	Lansford	36	41
+Westhope	Kramer	29	38
+Westhope	Glenburn	45	49
+Westhope	Colquhoun	35	60
+Westhope	Clay	39	51
+Westhope	Bottineau	32	35
+Westhope	Bantry	45	60
+Westhope	Antler	18	32
+Westby	Noonan	48	59
+Westby	Grenora	20	47
+Westby	Fortuna	12	22
+Westby	Crosby	34	46
+Westby	Ambrose	28	42
+West Fargo	Cummings	49	51
+West Fargo	Walcott	31	37
+West Fargo	Tower City	39	39
+West Fargo	Sheldon	47	51
+West Fargo	Oriska	44	43
+West Fargo	Mooreton	48	47
+West Fargo	Mapleton	8	12
+West Fargo	Leonard	31	33
+West Fargo	Kindred	21	29
+West Fargo	Hunter	37	40
+West Fargo	Horace	8	17
+West Fargo	Hillsboro	42	40
+West Fargo	Harwood	8	13
+West Fargo	Grandin	30	30
+West Fargo	Gardner	23	25
+West Fargo	Fargo	5	10
+West Fargo	Erie	45	52
+West Fargo	Davenport	19	27
+West Fargo	Colfax	33	35
+West Fargo	Christine	25	26
+West Fargo	Chaffee	28	36
+West Fargo	Casselton	16	21
+West Fargo	Buffalo	34	36
+West Fargo	Blanchard	46	45
+West Fargo	Ayr	48	53
+West Fargo	Arthur	31	35
+West Fargo	Argusville	16	19
+West Fargo	Amenia	24	30
+West Fargo	Absaraka	30	44
+West Fargo	Abercrombie	34	37
+Webster	Warwick	37	52
+Webster	Tokio	29	41
+Webster	Starkweather	11	14
+Webster	Sheyenne	41	49
+Webster	Saint Michael	22	33
+Webster	Poplar Grove	20	38
+Webster	Penn	25	32
+Webster	Oberon	38	52
+Webster	Nekoma	44	52
+Webster	Munich	28	35
+Webster	Minnewaukan	35	42
+Webster	Michigan	49	53
+Webster	Leeds	42	46
+Webster	Lawton	24	30
+Webster	Lakota	39	43
+Webster	Hampden	28	40
+Webster	Grandfield	48	60
+Webster	Fort Totten	25	35
+Webster	Fairdale	44	59
+Webster	Egeland	38	51
+Webster	Edmore	28	33
+Webster	Devils Lake	11	15
+Webster	Crary	25	33
+Webster	Churchs Ferry	31	38
+Webster	Cando	29	40
+Webster	Calvin	45	51
+Webster	Brocket	33	43
+Webster	Brinsmade	39	53
+Webster	Bisbee	47	60
+Webster	Alsen	32	41
+Webster	Adams	46	54
+Watford City	New Town	49	56
+Watford City	Mandaree	32	41
+Watford City	Keene	24	29
+Watford City	Grassy Butte	29	33
+Watford City	Fairfield	44	45
+Watford City	Cartwright	35	41
+Watford City	Arnegard	7	12
+Watford City	Alexander	19	24
+Washburn	Underwood	14	17
+Washburn	Turtle Lake	22	33
+Washburn	Stanton	22	27
+Washburn	Ruso	46	57
+Washburn	Riverdale	27	31
+Washburn	Regan	29	35
+Washburn	New Salem	48	56
+Washburn	Mercer	29	38
+Washburn	McClusky	41	51
+Washburn	Max	42	41
+Washburn	Mandan	44	47
+Washburn	Hazen	32	36
+Washburn	Garrison	35	38
+Washburn	Coleharbor	21	23
+Washburn	Center	23	25
+Washburn	Bismarck	40	43
+Washburn	Beulah	41	47
+Washburn	Baldwin	26	28
+Warwick	Tolna	18	24
+Warwick	Tokio	9	17
+Warwick	Sutton	43	59
+Warwick	Starkweather	48	60
+Warwick	Sheyenne	20	31
+Warwick	Saint Michael	15	27
+Warwick	Poplar Grove	33	56
+Warwick	Penn	38	50
+Warwick	Pekin	21	26
+Warwick	Oberon	31	46
+Warwick	New Rockford	32	45
+Warwick	Minnewaukan	42	55
+Warwick	McVille	29	36
+Warwick	McHenry	25	36
+Warwick	Lakota	41	47
+Warwick	Jessie	43	54
+Warwick	Grandfield	28	51
+Warwick	Grace City	26	46
+Warwick	Glenfield	34	46
+Warwick	Fort Totten	21	34
+Warwick	Devils Lake	25	37
+Warwick	Crary	37	51
+Warwick	Churchs Ferry	44	57
+Warwick	Carrington	48	60
+Warwick	Bremen	40	60
+Warwick	Binford	39	49
+Warwick	Aneta	43	51
+Walhalla	Saint Thomas	46	54
+Walhalla	Pembina	33	57
+Walhalla	Park River	45	51
+Walhalla	Osnabrock	28	37
+Walhalla	Nekoma	45	50
+Walhalla	Neche	20	37
+Walhalla	Mountain	19	24
+Walhalla	Milton	32	38
+Walhalla	Maida	28	47
+Walhalla	Lankin	48	57
+Walhalla	Langdon	31	35
+Walhalla	Hoople	41	50
+Walhalla	Canton City	29	38
+Walhalla	Hamilton	34	40
+Walhalla	Glasston	41	47
+Walhalla	Edinburg	32	36
+Walhalla	Crystal	34	41
+Walhalla	Cavalier	26	29
+Walhalla	Bathgate	24	34
+Wales	Starkweather	43	49
+Wales	Sarles	40	49
+Wales	Rocklake	40	49
+Wales	Osnabrock	37	48
+Wales	Nekoma	34	42
+Wales	Munich	27	32
+Wales	Mountain	48	54
+Wales	Milton	44	51
+Wales	Maida	36	42
+Wales	Langdon	20	25
+Wales	Hannah	10	15
+Wales	Hampden	44	60
+Wales	Fairdale	47	60
+Wales	Egeland	41	55
+Wales	Edmore	48	54
+Wales	Calvin	30	36
+Wales	Alsen	35	44
+Walcott	Gardner	49	51
+Walcott	Wahpeton	36	40
+Walcott	Sheldon	34	42
+Walcott	Mooreton	28	33
+Walcott	Milnor	45	56
+Walcott	McLeod	28	43
+Walcott	Mapleton	28	41
+Walcott	Mantador	40	49
+Walcott	Lisbon	43	51
+Walcott	Lidgerwood	43	56
+Walcott	Leonard	21	29
+Walcott	Kindred	10	18
+Walcott	Horace	16	24
+Walcott	Harwood	36	39
+Walcott	Hankinson	44	48
+Walcott	Great Bend	34	38
+Walcott	Fargo	31	36
+Walcott	Enderlin	37	45
+Walcott	Davenport	17	28
+Walcott	Colfax	13	21
+Walcott	Christine	8	16
+Walcott	Chaffee	36	52
+Walcott	Casselton	39	47
+Walcott	Barney	34	39
+Walcott	Argusville	42	44
+Walcott	Amenia	47	56
+Walcott	Abercrombie	15	23
+Wahpeton	Mooreton	13	17
+Wahpeton	Milnor	41	43
+Wahpeton	McLeod	45	60
+Wahpeton	Mantador	25	33
+Wahpeton	Lidgerwood	39	44
+Wahpeton	Kindred	46	47
+Wahpeton	Horace	49	47
+Wahpeton	Hankinson	29	33
+Wahpeton	Great Bend	20	23
+Wahpeton	Fargo	46	56
+Wahpeton	Fairmount	15	20
+Wahpeton	Colfax	28	30
+Wahpeton	Christine	27	33
+Wahpeton	Barney	19	23
+Wahpeton	Abercrombie	16	23
+Voltaire	Velva	5	9
+Voltaire	Turtle Lake	40	48
+Voltaire	Towner	46	50
+Voltaire	Surrey	27	34
+Voltaire	Sawyer	11	15
+Voltaire	Ryder	45	51
+Voltaire	Ruso	17	23
+Voltaire	Orrin	48	60
+Voltaire	Norwich	21	29
+Voltaire	Minot AFB	42	51
+Voltaire	Minot	27	33
+Voltaire	Max	35	39
+Voltaire	Martin	37	37
+Voltaire	Makoti	48	54
+Voltaire	Kief	22	29
+Voltaire	Karlsruhe	19	27
+Voltaire	Harvey	46	47
+Voltaire	Granville	23	30
+Voltaire	Drake	23	25
+Voltaire	Douglas	41	50
+Voltaire	Des Lacs	40	52
+Voltaire	Deering	35	44
+Voltaire	Butte	31	41
+Voltaire	Burlington	34	39
+Voltaire	Berthold	49	52
+Voltaire	Benedict	24	37
+Voltaire	Balfour	15	16
+Voltaire	Anamoose	30	30
+Verona	Valley City	42	45
+Verona	Stirum	24	29
+Verona	Sheldon	49	55
+Verona	Sanborn	47	51
+Verona	Oakes	16	18
+Verona	Nome	35	37
+Verona	Milnor	42	45
+Verona	Marion	32	36
+Verona	Litchville	26	31
+Verona	Lisbon	24	28
+Verona	LaMoure	10	15
+Verona	Kulm	46	51
+Verona	Kathryn	27	34
+Verona	Gwinner	30	32
+Verona	Fullerton	30	45
+Verona	Fort Ransom	19	29
+Verona	Forman	40	43
+Verona	Fingal	41	46
+Verona	Enderlin	41	46
+Verona	Ellendale	46	51
+Verona	Edgeley	31	36
+Verona	Dickey	34	50
+Verona	Cogswell	33	38
+Verona	Berlin	22	28
+Venturia	Strasburg	38	52
+Venturia	Napoleon	46	59
+Venturia	Linton	48	60
+Venturia	Lehr	30	43
+Venturia	Hague	25	36
+Venturia	Fredonia	44	60
+Venturia	Forbes	45	59
+Venturia	Ashley	10	20
+Velva	Upham	45	60
+Velva	Turtle Lake	38	45
+Velva	Towner	40	43
+Velva	Surrey	22	27
+Velva	Sawyer	6	10
+Velva	Ryder	44	48
+Velva	Ruso	15	20
+Velva	Norwich	15	21
+Velva	Minot AFB	37	46
+Velva	Minot	22	27
+Velva	Mercer	48	55
+Velva	Max	33	36
+Velva	Martin	42	41
+Velva	Makoti	47	51
+Velva	Kief	27	33
+Velva	Karlsruhe	24	31
+Velva	Granville	18	22
+Velva	Glenburn	45	54
+Velva	Drake	28	29
+Velva	Douglas	39	47
+Velva	Des Lacs	35	46
+Velva	Deering	29	37
+Velva	Carpio	48	48
+Velva	Butte	28	39
+Velva	Burlington	29	34
+Velva	Berthold	44	46
+Velva	Benedict	22	34
+Velva	Balfour	20	21
+Velva	Anamoose	35	35
+Valley City	Buchanan	49	48
+Valley City	Tower City	15	18
+Valley City	Spiritwood	27	30
+Valley City	Sheldon	49	57
+Valley City	Sanborn	13	19
+Valley City	Rogers	21	25
+Valley City	Pillsbury	30	32
+Valley City	Page	42	44
+Valley City	Oriska	11	13
+Valley City	Nome	27	33
+Valley City	Marion	37	42
+Valley City	Mapleton	47	42
+Valley City	Luverne	28	48
+Valley City	Litchville	30	37
+Valley City	Kathryn	18	34
+Valley City	Jamestown	35	37
+Valley City	Hope	41	43
+Valley City	Hannaford	38	42
+Valley City	Fort Ransom	39	52
+Valley City	Fingal	21	28
+Valley City	Erie	48	58
+Valley City	Enderlin	41	48
+Valley City	Eckelson	19	23
+Valley City	Dickey	49	60
+Valley City	Dazey	29	35
+Valley City	Courtenay	48	54
+Valley City	Cooperstown	49	55
+Valley City	Chaffee	39	44
+Valley City	Casselton	40	39
+Valley City	Buffalo	25	27
+Valley City	Ayr	39	44
+Valley City	Amenia	48	48
+Valley City	Absaraka	37	48
+Upham	Towner	22	38
+Upham	Surrey	42	60
+Upham	Souris	24	41
+Upham	Rugby	43	59
+Upham	Norwich	35	60
+Upham	Newburg	20	36
+Upham	Minot AFB	39	60
+Upham	Minot	49	60
+Upham	Maxbass	31	55
+Upham	Kramer	8	15
+Upham	Granville	26	48
+Upham	Glenburn	27	60
+Upham	Dunseith	47	60
+Upham	Deering	28	60
+Upham	Bottineau	29	42
+Upham	Bantry	8	16
+Underwood	Turtle Lake	15	21
+Underwood	Stanton	35	41
+Underwood	Ruso	38	46
+Underwood	Roseglen	49	52
+Underwood	Riverdale	14	19
+Underwood	Regan	43	47
+Underwood	Mercer	21	26
+Underwood	McClusky	34	39
+Underwood	Max	29	29
+Underwood	Hazen	45	50
+Underwood	Garrison	22	26
+Underwood	Douglas	41	46
+Underwood	Denhoff	44	53
+Underwood	Coleharbor	8	12
+Underwood	Center	36	39
+Underwood	Benedict	39	46
+Underwood	Baldwin	40	40
+Tuttle	Moffit	46	52
+Tuttle	Tappen	35	36
+Tuttle	Sterling	41	42
+Tuttle	Steele	22	26
+Tuttle	Robinson	10	14
+Tuttle	Regan	26	34
+Tuttle	Pettibone	24	32
+Tuttle	McKenzie	46	46
+Tuttle	McClusky	47	48
+Tuttle	Hurdsfield	25	27
+Tuttle	Harvey	48	53
+Tuttle	Goodrich	32	34
+Tuttle	Driscoll	33	35
+Tuttle	Denhoff	39	43
+Tuttle	Dawson	30	33
+Tuttle	Chaseley	30	32
+Tuttle	Bowdon	36	39
+Tuttle	Baldwin	47	53
+Turtle Lake	Stanton	44	51
+Turtle Lake	Sawyer	44	53
+Turtle Lake	Ruso	23	29
+Turtle Lake	Riverdale	28	35
+Turtle Lake	Regan	48	55
+Turtle Lake	Mercer	10	14
+Turtle Lake	McClusky	23	27
+Turtle Lake	Max	43	45
+Turtle Lake	Kief	44	60
+Turtle Lake	Goodrich	39	48
+Turtle Lake	Garrison	37	42
+Turtle Lake	Denhoff	32	41
+Turtle Lake	Coleharbor	22	28
+Turtle Lake	Center	45	50
+Turtle Lake	Butte	35	47
+Turtle Lake	Benedict	29	39
+Turtle Lake	Baldwin	47	50
+Trenton	Ray	47	50
+Trenton	Epping	34	44
+Trenton	Cartwright	24	29
+Trenton	Arnegard	42	47
+Trenton	Alexander	30	34
+Trenton	Alamo	49	54
+Towner	Surrey	37	36
+Towner	Souris	46	60
+Towner	Sawyer	47	52
+Towner	Rugby	20	24
+Towner	Orrin	30	49
+Towner	Norwich	31	31
+Towner	Newburg	43	60
+Towner	Minot	45	47
+Towner	Martin	48	59
+Towner	Leeds	46	44
+Towner	Kramer	30	49
+Towner	Knox	34	33
+Towner	Kief	41	57
+Towner	Karlsruhe	27	51
+Towner	Granville	23	23
+Towner	Drake	35	47
+Towner	Deering	45	47
+Towner	Butte	49	60
+Towner	Bottineau	42	60
+Towner	Bantry	14	24
+Towner	Balta	34	38
+Towner	Balfour	35	47
+Towner	Anamoose	41	52
+Tower City	Spiritwood	42	44
+Tower City	Sheldon	31	50
+Tower City	Sanborn	29	33
+Tower City	Rogers	37	39
+Tower City	Pillsbury	25	31
+Tower City	Page	23	29
+Tower City	Oriska	7	30
+Tower City	Nome	22	29
+Tower City	Mapleton	32	30
+Tower City	Luverne	35	46
+Tower City	Litchville	46	51
+Tower City	Lisbon	45	51
+Tower City	Leonard	40	40
+Tower City	Kindred	49	52
+Tower City	Kathryn	30	46
+Tower City	Hunter	46	49
+Tower City	Horace	45	46
+Tower City	Hope	36	41
+Tower City	Harwood	46	49
+Tower City	Galesburg	38	56
+Tower City	Fort Ransom	44	60
+Tower City	Finley	47	53
+Tower City	Fingal	16	25
+Tower City	Fargo	46	46
+Tower City	Erie	28	43
+Tower City	Enderlin	28	46
+Tower City	Eckelson	35	37
+Tower City	Dazey	45	49
+Tower City	Davenport	47	50
+Tower City	Clifford	43	60
+Tower City	Chaffee	25	33
+Tower City	Casselton	25	27
+Tower City	Buffalo	6	12
+Tower City	Ayr	19	29
+Tower City	Arthur	40	41
+Tower City	Argusville	49	55
+Tower City	Amenia	33	36
+Tower City	Absaraka	22	36
+Tolna	Devils Lake	42	58
+Tolna	Tokio	26	38
+Tolna	Sutton	42	53
+Tolna	Sheyenne	35	49
+Tolna	Sharon	38	48
+Tolna	Saint Michael	32	48
+Tolna	Petersburg	42	44
+Tolna	Pekin	7	9
+Tolna	Oberon	45	60
+Tolna	Northwood	44	50
+Tolna	Niagara	48	51
+Tolna	New Rockford	42	51
+Tolna	Michigan	36	40
+Tolna	McVille	15	19
+Tolna	McHenry	24	34
+Tolna	Lawton	45	50
+Tolna	Lakota	26	30
+Tolna	Jessie	29	37
+Tolna	Hannaford	48	55
+Tolna	Grandfield	43	60
+Tolna	Grace City	36	50
+Tolna	Glenfield	33	44
+Tolna	Fort Totten	38	56
+Tolna	Finley	47	54
+Tolna	Crary	41	45
+Tolna	Courtenay	49	58
+Tolna	Cooperstown	42	47
+Tolna	Brocket	39	44
+Tolna	Binford	24	32
+Tolna	Aneta	28	34
+Tolley	Sherwood	25	32
+Tolley	Newburg	47	60
+Tolley	Mohall	16	20
+Tolley	Maxbass	36	46
+Tolley	Lignite	46	50
+Tolley	Lansford	32	45
+Tolley	Kenmare	21	26
+Tolley	Glenburn	48	55
+Tolley	Flaxton	37	41
+Tolley	Donnybrook	36	40
+Tolley	Colquhoun	21	49
+Tolley	Clay	22	37
+Tolley	Carpio	31	34
+Tolley	Bowbells	24	28
+Tolley	Berthold	40	47
+Tolley	Antler	41	48
+Tokio	Starkweather	40	51
+Tokio	Sheyenne	20	37
+Tokio	Saint Michael	7	14
+Tokio	Poplar Grove	25	44
+Tokio	Penn	30	38
+Tokio	Pekin	30	39
+Tokio	Oberon	18	39
+Tokio	New Rockford	31	51
+Tokio	Minnewaukan	30	43
+Tokio	McVille	38	49
+Tokio	McHenry	34	48
+Tokio	Maddock	49	60
+Tokio	Leeds	47	52
+Tokio	Lakota	42	48
+Tokio	Grandfield	28	56
+Tokio	Grace City	35	59
+Tokio	Glenfield	43	58
+Tokio	Fort Totten	12	19
+Tokio	Devils Lake	17	25
+Tokio	Crary	29	38
+Tokio	Churchs Ferry	36	44
+Tokio	Carrington	47	60
+Tokio	Brinsmade	44	59
+Tokio	Bremen	40	60
+Tokio	Binford	48	60
+Tioga	Stanley	30	34
+Tioga	Ross	37	40
+Tioga	Ray	15	20
+Tioga	Powers Lake	26	30
+Tioga	Palermo	39	42
+Tioga	Noonan	38	54
+Tioga	McGregor	14	17
+Tioga	Epping	27	34
+Tioga	Columbus	43	48
+Tioga	Alamo	39	44
+Thompson	Reynolds	10	12
+Thompson	Portland	34	36
+Thompson	Northwood	24	25
+Thompson	Niagara	48	48
+Thompson	Minto	42	41
+Thompson	Mekinock	28	35
+Thompson	Mayville	32	33
+Thompson	Manvel	24	23
+Thompson	Larimore	37	39
+Thompson	Hillsboro	28	27
+Thompson	Hatton	24	25
+Thompson	Grandin	39	36
+Thompson	Grand Forks AFB	25	33
+Thompson	Grand Forks	14	18
+Thompson	Gilby	38	43
+Thompson	Gardner	46	41
+Thompson	Forest River	42	51
+Thompson	Emerado	21	27
+Thompson	Cummings	20	24
+Thompson	Clifford	48	54
+Thompson	Caledonia	33	42
+Thompson	Buxton	14	17
+Thompson	Blanchard	40	40
+Thompson	Arvilla	29	31
+Thompson	Ardoch	35	34
+Thompson	Aneta	47	48
+Taylor	South Heart	31	31
+Taylor	Richardton	5	7
+Taylor	Regent	39	49
+Taylor	New England	44	50
+Taylor	Mott	43	53
+Taylor	Marshall	21	23
+Taylor	Manning	43	47
+Taylor	Lefor	21	28
+Taylor	Hebron	23	26
+Taylor	Halliday	37	37
+Taylor	Golden Valley	48	50
+Taylor	Glen Ullin	32	35
+Taylor	Gladstone	9	14
+Taylor	Dunn Center	49	49
+Taylor	Dodge	40	40
+Taylor	Dickinson	19	22
+Taylor	Belfield	39	40
+Tappen	Streeter	30	34
+Tappen	Sterling	33	31
+Tappen	Steele	14	16
+Tappen	Robinson	43	45
+Tappen	Pettibone	24	53
+Tappen	Napoleon	31	38
+Tappen	Moffit	43	40
+Tappen	Menoken	45	41
+Tappen	Medina	17	20
+Tappen	McKenzie	38	35
+Tappen	Kintyre	44	57
+Tappen	Jamestown	46	43
+Tappen	Gackle	41	50
+Tappen	Driscoll	25	25
+Tappen	Dawson	6	9
+Tappen	Cleveland	25	26
+Sykeston	Sutton	49	58
+Sykeston	Sheyenne	40	41
+Sykeston	Pingree	36	40
+Sykeston	Pettibone	38	60
+Sykeston	New Rockford	29	33
+Sykeston	Medina	44	60
+Sykeston	McHenry	48	53
+Sykeston	Maddock	41	60
+Sykeston	Kensal	39	45
+Sykeston	Hurdsfield	26	28
+Sykeston	Harvey	42	44
+Sykeston	Hamberg	27	39
+Sykeston	Grandfield	43	58
+Sykeston	Grace City	35	44
+Sykeston	Goodrich	37	39
+Sykeston	Glenfield	39	43
+Sykeston	Fessenden	24	28
+Sykeston	Denhoff	44	48
+Sykeston	Chaseley	21	23
+Sykeston	Cathay	8	18
+Sykeston	Carrington	14	18
+Sykeston	Buchanan	44	48
+Sykeston	Bremen	31	53
+Sykeston	Bowdon	15	20
+Sutton	Sharon	40	54
+Sutton	Sanborn	45	60
+Sutton	Rogers	34	60
+Sutton	Pillsbury	49	60
+Sutton	Pekin	35	43
+Sutton	McVille	41	51
+Sutton	McHenry	18	27
+Sutton	Luverne	43	60
+Sutton	Kensal	28	51
+Sutton	Jessie	22	34
+Sutton	Jamestown	46	60
+Sutton	Hope	43	51
+Sutton	Hannaford	17	45
+Sutton	Grace City	28	43
+Sutton	Glenfield	9	18
+Sutton	Finley	36	44
+Sutton	Dazey	26	58
+Sutton	Courtenay	18	32
+Sutton	Cooperstown	17	26
+Sutton	Carrington	36	45
+Sutton	Buchanan	42	60
+Sutton	Binford	18	28
+Sutton	Aneta	41	53
+Surrey	Sawyer	19	23
+Surrey	Ryder	47	52
+Surrey	Ruso	37	47
+Surrey	Norwich	7	9
+Surrey	Minot AFB	22	31
+Surrey	Minot	8	16
+Surrey	Max	36	39
+Surrey	Lansford	37	45
+Surrey	Kramer	49	60
+Surrey	Kief	49	59
+Surrey	Karlsruhe	46	57
+Surrey	Granville	15	15
+Surrey	Glenburn	30	39
+Surrey	Douglas	42	50
+Surrey	Donnybrook	44	48
+Surrey	Des Lacs	22	35
+Surrey	Deering	14	19
+Surrey	Clay	49	60
+Surrey	Carpio	35	37
+Surrey	Burlington	17	23
+Surrey	Berthold	32	35
+Surrey	Benedict	36	54
+Surrey	Balfour	42	47
+Streeter	Steele	43	43
+Streeter	Pettibone	47	60
+Streeter	Napoleon	31	52
+Streeter	Montpelier	44	58
+Streeter	Medina	18	23
+Streeter	Lehr	28	38
+Streeter	Kulm	48	60
+Streeter	Kintyre	43	60
+Streeter	Jud	31	53
+Streeter	Jamestown	47	47
+Streeter	Gackle	12	22
+Streeter	Fredonia	42	55
+Streeter	Dawson	35	36
+Streeter	Cleveland	26	30
+Streeter	Ashley	46	60
+Strasburg	Sterling	49	50
+Strasburg	Napoleon	49	56
+Strasburg	Moffit	39	43
+Strasburg	Linton	10	15
+Strasburg	Kintyre	46	56
+Strasburg	Hazelton	26	30
+Strasburg	Hague	13	17
+Strasburg	Braddock	40	49
+Strasburg	Ashley	45	59
+Stirum	Sheldon	42	57
+Stirum	Rutland	27	37
+Stirum	Oakes	20	24
+Stirum	Nome	46	54
+Stirum	Mooreton	47	51
+Stirum	Milnor	20	25
+Stirum	McLeod	36	57
+Stirum	Mantador	48	58
+Stirum	Lisbon	23	30
+Stirum	Lidgerwood	42	51
+Stirum	LaMoure	35	40
+Stirum	Havana	28	36
+Stirum	Gwinner	8	12
+Stirum	Fullerton	38	56
+Stirum	Fort Ransom	43	54
+Stirum	Forman	17	24
+Stirum	Enderlin	40	50
+Stirum	Cogswell	8	19
+Stirum	Cayuga	31	40
+Stirum	Berlin	46	53
+Stirum	Barney	41	46
+Sterling	Steele	20	23
+Sterling	Saint Anthony	46	49
+Sterling	Robinson	49	50
+Sterling	Regan	35	41
+Sterling	Napoleon	49	60
+Sterling	Moffit	10	12
+Sterling	Menoken	12	15
+Sterling	McKenzie	6	9
+Sterling	Mandan	30	30
+Sterling	Linton	39	39
+Sterling	Kintyre	43	49
+Sterling	Hazelton	23	25
+Sterling	Driscoll	8	12
+Sterling	Denhoff	47	53
+Sterling	Dawson	28	30
+Sterling	Braddock	37	42
+Sterling	Bismarck	26	27
+Sterling	Baldwin	40	41
+Steele	Robinson	30	35
+Steele	Regan	48	58
+Steele	Pettibone	43	52
+Steele	Napoleon	34	45
+Steele	Moffit	30	30
+Steele	Menoken	32	32
+Steele	Medina	31	32
+Steele	McKenzie	25	25
+Steele	Mandan	47	45
+Steele	Kintyre	22	59
+Steele	Hurdsfield	44	47
+Steele	Hazelton	43	43
+Steele	Driscoll	12	15
+Steele	Dawson	9	16
+Steele	Cleveland	39	38
+Steele	Chaseley	49	52
+Steele	Bismarck	43	42
+Starkweather	Sarles	42	50
+Starkweather	Saint Michael	33	51
+Starkweather	Rocklake	43	50
+Starkweather	Poplar Grove	32	56
+Starkweather	Perth	44	60
+Starkweather	Penn	39	49
+Starkweather	Nekoma	37	45
+Starkweather	Mylo	46	58
+Starkweather	Munich	17	21
+Starkweather	Minnewaukan	47	60
+Starkweather	Leeds	43	55
+Starkweather	Lawton	34	41
+Starkweather	Langdon	45	49
+Starkweather	Hampden	16	32
+Starkweather	Fort Totten	37	53
+Starkweather	Fairdale	37	52
+Starkweather	Egeland	26	37
+Starkweather	Edmore	22	26
+Starkweather	Devils Lake	23	34
+Starkweather	Crary	37	51
+Starkweather	Churchs Ferry	32	43
+Starkweather	Cando	17	26
+Starkweather	Calvin	33	37
+Starkweather	Brocket	41	52
+Starkweather	Brinsmade	44	60
+Starkweather	Bisbee	35	47
+Starkweather	Alsen	20	28
+Starkweather	Agate	40	53
+Starkweather	Adams	40	47
+Stanton	Riverdale	25	32
+Stanton	New Salem	35	42
+Stanton	Hazen	13	19
+Stanton	Golden Valley	34	41
+Stanton	Garrison	49	57
+Stanton	Dodge	40	46
+Stanton	Coleharbor	35	42
+Stanton	Center	16	20
+Stanton	Beulah	22	31
+Stanton	Baldwin	49	50
+Stanton	Almont	48	57
+Stanley	Epping	49	54
+Stanley	Ross	9	11
+Stanley	Ray	38	40
+Stanley	Powers Lake	28	32
+Stanley	Plaza	46	51
+Stanley	Parshall	36	42
+Stanley	Palermo	9	14
+Stanley	New Town	31	37
+Stanley	McGregor	42	45
+Stanley	Lignite	47	57
+Stanley	Kenmare	39	46
+Stanley	Donnybrook	41	45
+Stanley	Des Lacs	43	50
+Stanley	Carpio	41	41
+Stanley	Burlington	46	45
+Stanley	Bowbells	39	47
+Stanley	Berthold	31	33
+Spiritwood	Sanborn	13	25
+Spiritwood	Rogers	29	33
+Spiritwood	Pingree	32	41
+Spiritwood	Oriska	37	38
+Spiritwood	Montpelier	33	41
+Spiritwood	Medina	43	45
+Spiritwood	McHenry	48	60
+Spiritwood	Marion	31	54
+Spiritwood	Litchville	35	55
+Spiritwood	Kensal	40	51
+Spiritwood	Kathryn	43	58
+Spiritwood	Jud	48	60
+Spiritwood	Jamestown	11	20
+Spiritwood	Hannaford	45	49
+Spiritwood	Glenfield	39	57
+Spiritwood	Fingal	48	53
+Spiritwood	Eckelson	7	14
+Spiritwood	Dazey	37	42
+Spiritwood	Courtenay	22	40
+Spiritwood	Cleveland	34	37
+Spiritwood	Buchanan	24	34
+South Heart	Sentinel Butte	43	53
+South Heart	Richardton	36	36
+South Heart	New England	35	45
+South Heart	Medora	27	28
+South Heart	Manning	35	41
+South Heart	Lefor	36	41
+South Heart	Killdeer	45	52
+South Heart	Grassy Butte	47	48
+South Heart	Gladstone	24	26
+South Heart	Fairfield	31	32
+South Heart	Dickinson	10	17
+South Heart	Belfield	12	16
+South Heart	Amidon	45	45
+Souris	Saint John	48	60
+Souris	Newburg	25	38
+Souris	Mohall	47	51
+Souris	Maxbass	34	43
+Souris	Kramer	16	29
+Souris	Dunseith	34	42
+Souris	Bottineau	16	23
+Souris	Belcourt	49	56
+Souris	Bantry	32	54
+Souris	Antler	33	59
+Solen	Shields	29	43
+Solen	Selfridge	30	35
+Solen	Saint Anthony	25	29
+Solen	Raleigh	39	46
+Solen	Mandan	40	44
+Solen	Fort Yates	31	37
+Solen	Flasher	29	33
+Solen	Carson	46	53
+Solen	Cannon Ball	11	18
+Solen	Bismarck	45	55
+Shields	Selfridge	22	36
+Shields	Saint Anthony	41	52
+Shields	Raleigh	19	41
+Shields	Fort Yates	38	55
+Shields	Flasher	45	56
+Shields	Carson	38	60
+Shields	Cannon Ball	40	57
+Sheyenne	Saint Michael	23	30
+Sheyenne	Poplar Grove	41	53
+Sheyenne	Pingree	49	51
+Sheyenne	Penn	46	47
+Sheyenne	Pekin	39	49
+Sheyenne	Oberon	10	14
+Sheyenne	New Rockford	11	15
+Sheyenne	Minnewaukan	22	23
+Sheyenne	McVille	47	59
+Sheyenne	McHenry	43	50
+Sheyenne	Maddock	40	42
+Sheyenne	Leeds	43	43
+Sheyenne	Hamberg	39	44
+Sheyenne	Grandfield	7	20
+Sheyenne	Grace City	35	45
+Sheyenne	Fort Totten	17	21
+Sheyenne	Fessenden	37	41
+Sheyenne	Esmond	46	46
+Sheyenne	Devils Lake	29	34
+Sheyenne	Crary	41	48
+Sheyenne	Churchs Ferry	41	43
+Sheyenne	Cathay	33	40
+Sheyenne	Carrington	27	30
+Sheyenne	Brinsmade	31	39
+Sheyenne	Bremen	19	41
+Sherwood	Newburg	49	60
+Sherwood	Mohall	19	23
+Sherwood	Maxbass	39	49
+Sherwood	Lansford	34	48
+Sherwood	Kenmare	41	48
+Sherwood	Donnybrook	48	54
+Sherwood	Colquhoun	4	17
+Sherwood	Clay	25	40
+Sherwood	Carpio	39	44
+Sherwood	Bowbells	45	50
+Sherwood	Berthold	49	58
+Sherwood	Antler	16	33
+Sheldon	Page	43	60
+Sheldon	Oriska	39	47
+Sheldon	Nome	21	26
+Sheldon	Milnor	23	43
+Sheldon	McLeod	29	60
+Sheldon	Marion	44	51
+Sheldon	Mapleton	41	43
+Sheldon	Litchville	38	46
+Sheldon	Lisbon	19	27
+Sheldon	Leonard	16	21
+Sheldon	Kindred	27	33
+Sheldon	Kathryn	30	39
+Sheldon	Horace	39	45
+Sheldon	Gwinner	34	47
+Sheldon	Fort Ransom	36	50
+Sheldon	Forman	43	56
+Sheldon	Fingal	28	35
+Sheldon	Enderlin	9	14
+Sheldon	Davenport	35	42
+Sheldon	Colfax	43	52
+Sheldon	Christine	39	46
+Sheldon	Chaffee	31	44
+Sheldon	Casselton	34	39
+Sheldon	Buffalo	26	45
+Sheldon	Barney	46	56
+Sheldon	Ayr	40	60
+Sheldon	Arthur	49	53
+Sheldon	Amenia	42	48
+Sheldon	Absaraka	48	60
+Sheldon	Abercrombie	48	56
+Sharon	Portland	32	36
+Sharon	Pillsbury	31	37
+Sharon	Petersburg	33	42
+Sharon	Pekin	31	37
+Sharon	Page	39	45
+Sharon	Northwood	34	42
+Sharon	Niagara	38	48
+Sharon	Michigan	39	48
+Sharon	McVille	23	30
+Sharon	McHenry	37	59
+Sharon	Mayville	34	40
+Sharon	Luverne	32	48
+Sharon	Larimore	42	49
+Sharon	Lakota	49	56
+Sharon	Jessie	20	28
+Sharon	Hope	26	32
+Sharon	Hatton	35	39
+Sharon	Hannaford	34	42
+Sharon	Glenfield	43	51
+Sharon	Galesburg	44	60
+Sharon	Finley	9	12
+Sharon	Dazey	43	52
+Sharon	Cummings	47	58
+Sharon	Cooperstown	22	27
+Sharon	Clifford	42	56
+Sharon	Binford	25	38
+Sharon	Arvilla	48	57
+Sharon	Aneta	10	15
+Sentinel Butte	Medora	17	32
+Sentinel Butte	Golva	19	29
+Sentinel Butte	Belfield	34	48
+Sentinel Butte	Beach	8	15
+Selfridge	Saint Anthony	42	44
+Selfridge	Raleigh	41	60
+Selfridge	Fort Yates	18	27
+Selfridge	Flasher	46	48
+Selfridge	Cannon Ball	39	48
+Scranton	Rhame	26	30
+Scranton	Reeder	11	16
+Scranton	New England	39	45
+Scranton	Marmarth	40	45
+Scranton	Hettinger	27	29
+Scranton	Bowman	13	17
+Scranton	Amidon	34	38
+Sawyer	Ryder	41	51
+Sawyer	Ruso	21	28
+Sawyer	Norwich	22	29
+Sawyer	Minot AFB	31	41
+Sawyer	Minot	15	22
+Sawyer	Max	30	40
+Sawyer	Martin	48	48
+Sawyer	Makoti	44	54
+Sawyer	Lansford	47	55
+Sawyer	Kief	33	40
+Sawyer	Karlsruhe	30	38
+Sawyer	Granville	24	30
+Sawyer	Glenburn	39	49
+Sawyer	Garrison	47	57
+Sawyer	Drake	34	36
+Sawyer	Douglas	36	51
+Sawyer	Des Lacs	29	41
+Sawyer	Deering	33	42
+Sawyer	Carpio	41	43
+Sawyer	Butte	34	46
+Sawyer	Burlington	23	29
+Sawyer	Berthold	38	41
+Sawyer	Benedict	19	37
+Sawyer	Balfour	26	28
+Sawyer	Anamoose	41	42
+Sarles	Rolla	47	55
+Sarles	Rocklake	28	37
+Sarles	Munich	26	34
+Sarles	Langdon	41	49
+Sarles	Hansboro	18	51
+Sarles	Hannah	16	45
+Sarles	Hampden	44	60
+Sarles	Egeland	41	56
+Sarles	Calvin	9	15
+Sarles	Bisbee	46	56
+Sarles	Alsen	35	46
+Sanborn	Rogers	11	15
+Sanborn	Pingree	49	51
+Sanborn	Pillsbury	43	45
+Sanborn	Oriska	24	26
+Sanborn	Nome	40	45
+Sanborn	Montpelier	44	51
+Sanborn	Marion	41	50
+Sanborn	Luverne	35	45
+Sanborn	Litchville	21	44
+Sanborn	Kathryn	29	46
+Sanborn	Jamestown	27	34
+Sanborn	Hannaford	28	32
+Sanborn	Fort Ransom	43	59
+Sanborn	Fingal	34	41
+Sanborn	Eckelson	5	12
+Sanborn	Dazey	19	25
+Sanborn	Courtenay	38	44
+Sanborn	Cooperstown	40	45
+Sanborn	Cleveland	46	47
+Sanborn	Buffalo	38	39
+Sanborn	Buchanan	41	45
+Saint Thomas	Pisek	33	39
+Saint Thomas	Pembina	35	44
+Saint Thomas	Park River	28	34
+Saint Thomas	Osnabrock	38	47
+Saint Thomas	Nekoma	49	57
+Saint Thomas	Neche	30	37
+Saint Thomas	Mountain	26	32
+Saint Thomas	Minto	23	29
+Saint Thomas	Milton	30	37
+Saint Thomas	Manvel	42	48
+Saint Thomas	Lankin	43	53
+Saint Thomas	Inkster	41	48
+Saint Thomas	Hoople	14	20
+Saint Thomas	Canton City	17	23
+Saint Thomas	Hamilton	13	20
+Saint Thomas	Grafton	14	18
+Saint Thomas	Glasston	6	11
+Saint Thomas	Forest River	31	51
+Saint Thomas	Fordville	43	55
+Saint Thomas	Farmington	9	17
+Saint Thomas	Edinburg	27	32
+Saint Thomas	Drayton	15	22
+Saint Thomas	Crystal	11	16
+Saint Thomas	Cavalier	22	26
+Saint Thomas	Bathgate	26	35
+Saint Thomas	Ardoch	30	36
+Saint Thomas	Adams	45	53
+Saint Michael	Poplar Grove	18	37
+Saint Michael	Penn	23	31
+Saint Michael	Pekin	36	49
+Saint Michael	Oberon	20	31
+Saint Michael	New Rockford	34	43
+Saint Michael	Minnewaukan	25	33
+Saint Michael	Michigan	46	51
+Saint Michael	McVille	44	59
+Saint Michael	McHenry	40	59
+Saint Michael	Maddock	43	52
+Saint Michael	Leeds	40	45
+Saint Michael	Lawton	46	60
+Saint Michael	Lakota	36	42
+Saint Michael	Grandfield	30	49
+Saint Michael	Grace City	41	60
+Saint Michael	Glenfield	49	60
+Saint Michael	Fort Totten	7	14
+Saint Michael	Esmond	49	55
+Saint Michael	Devils Lake	10	18
+Saint Michael	Crary	22	32
+Saint Michael	Churchs Ferry	29	37
+Saint Michael	Cando	44	51
+Saint Michael	Brocket	48	55
+Saint Michael	Brinsmade	34	48
+Saint Michael	Bremen	43	60
+Saint John	Rolla	7	13
+Saint John	Rolette	24	40
+Saint John	Rocklake	27	34
+Saint John	Perth	24	51
+Saint John	Mylo	23	38
+Saint John	Hansboro	25	34
+Saint John	Egeland	45	55
+Saint John	Dunseith	25	31
+Saint John	Cando	49	56
+Saint John	Calvin	45	54
+Saint John	Bottineau	41	51
+Saint John	Bisbee	34	51
+Saint John	Belcourt	8	16
+Saint John	Agate	29	45
+Saint Anthony	Raleigh	36	41
+Saint Anthony	New Salem	42	45
+Saint Anthony	Menoken	34	40
+Saint Anthony	McKenzie	39	43
+Saint Anthony	Mandan	15	18
+Saint Anthony	Flasher	26	28
+Saint Anthony	Carson	43	49
+Saint Anthony	Cannon Ball	36	43
+Saint Anthony	Bismarck	21	30
+Saint Anthony	Baldwin	36	44
+Ryder	Roseglen	19	25
+Ryder	Plaza	20	27
+Ryder	Parshall	27	32
+Ryder	New Town	42	46
+Ryder	Minot	40	44
+Ryder	Max	25	38
+Ryder	Makoti	11	16
+Ryder	Garrison	31	37
+Ryder	Douglas	12	20
+Ryder	Coleharbor	45	50
+Ryder	Carpio	47	60
+Ryder	Burlington	46	52
+Ryder	Berthold	37	56
+Ryder	Benedict	35	53
+Rutland	Oakes	33	41
+Rutland	Mooreton	44	53
+Rutland	Milnor	28	36
+Rutland	McLeod	44	60
+Rutland	Mantador	33	55
+Rutland	Lisbon	34	43
+Rutland	Lidgerwood	19	26
+Rutland	Havana	17	22
+Rutland	Hankinson	32	41
+Rutland	Gwinner	19	27
+Rutland	Great Bend	44	54
+Rutland	Forman	9	17
+Rutland	Fairmount	47	56
+Rutland	Cogswell	16	25
+Rutland	Cayuga	8	15
+Rutland	Barney	38	47
+Ruso	Norwich	31	40
+Ruso	Minot	37	44
+Ruso	Mercer	33	40
+Ruso	McClusky	46	53
+Ruso	Max	18	33
+Ruso	Kief	22	38
+Ruso	Karlsruhe	36	47
+Ruso	Granville	33	41
+Ruso	Garrison	36	51
+Ruso	Drake	40	45
+Ruso	Douglas	31	50
+Ruso	Deering	45	56
+Ruso	Coleharbor	38	50
+Ruso	Butte	13	23
+Ruso	Burlington	44	51
+Ruso	Benedict	9	19
+Ruso	Balfour	32	36
+Ruso	Anamoose	47	50
+Rugby	Rolette	31	35
+Rugby	Penn	46	44
+Rugby	Orrin	27	44
+Rugby	Mylo	43	51
+Rugby	Maddock	47	57
+Rugby	Leeds	28	29
+Rugby	Knox	15	17
+Rugby	Karlsruhe	47	60
+Rugby	Harvey	43	47
+Rugby	Granville	43	41
+Rugby	Esmond	34	39
+Rugby	Dunseith	32	36
+Rugby	Churchs Ferry	40	40
+Rugby	Cando	48	53
+Rugby	Brinsmade	40	50
+Rugby	Bottineau	45	49
+Rugby	Belcourt	45	49
+Rugby	Bantry	35	46
+Rugby	Balta	16	22
+Rugby	Anamoose	48	59
+Rugby	Agate	49	58
+Ross	Des Lacs	49	54
+Ross	Ray	29	29
+Ross	Powers Lake	21	38
+Ross	Parshall	45	53
+Ross	Palermo	18	24
+Ross	New Town	30	39
+Ross	McGregor	36	37
+Ross	Kenmare	49	60
+Ross	Epping	42	43
+Ross	Carpio	49	52
+Ross	Bowbells	48	60
+Ross	Berthold	40	44
+Roseglen	Plaza	28	46
+Roseglen	Parshall	28	33
+Roseglen	New Town	46	54
+Roseglen	Max	45	47
+Roseglen	Makoti	16	30
+Roseglen	Garrison	27	30
+Roseglen	Douglas	24	33
+Roseglen	Coleharbor	41	44
+Roseglen	Berthold	45	60
+Rolla	Rolette	21	32
+Rolla	Rocklake	19	22
+Rolla	Perth	17	40
+Rolla	Mylo	15	26
+Rolla	Munich	46	52
+Rolla	Hansboro	17	22
+Rolla	Egeland	37	43
+Rolla	Dunseith	21	26
+Rolla	Cando	42	44
+Rolla	Calvin	38	42
+Rolla	Bottineau	39	43
+Rolla	Bisbee	26	38
+Rolla	Belcourt	6	8
+Rolla	Agate	21	33
+Rolette	Rocklake	40	46
+Rolette	Perth	27	38
+Rolette	Mylo	11	17
+Rolette	Knox	47	50
+Rolette	Hansboro	39	55
+Rolette	Egeland	35	46
+Rolette	Dunseith	19	24
+Rolette	Cando	40	46
+Rolette	Bottineau	37	41
+Rolette	Bisbee	23	29
+Rolette	Belcourt	15	27
+Rolette	Balta	47	55
+Rolette	Agate	18	24
+Rogers	Pillsbury	30	37
+Rogers	Oriska	32	33
+Rogers	Nome	48	52
+Rogers	Luverne	25	33
+Rogers	Litchville	32	52
+Rogers	Kensal	41	50
+Rogers	Kathryn	37	53
+Rogers	Jessie	41	49
+Rogers	Jamestown	38	41
+Rogers	Hope	41	48
+Rogers	Hannaford	17	20
+Rogers	Glenfield	44	48
+Rogers	Finley	47	51
+Rogers	Fingal	42	48
+Rogers	Eckelson	16	25
+Rogers	Dazey	8	13
+Rogers	Courtenay	27	32
+Rogers	Cooperstown	29	33
+Rogers	Buffalo	46	46
+Rogers	Binford	42	48
+Rocklake	Perth	27	38
+Rocklake	Penn	46	51
+Rocklake	Mylo	29	34
+Rocklake	Munich	27	33
+Rocklake	Langdon	42	48
+Rocklake	Hansboro	15	21
+Rocklake	Hampden	44	60
+Rocklake	Egeland	20	27
+Rocklake	Dunseith	41	47
+Rocklake	Churchs Ferry	40	45
+Rocklake	Cando	24	28
+Rocklake	Calvin	18	23
+Rocklake	Bisbee	18	23
+Rocklake	Belcourt	26	29
+Rocklake	Alsen	35	45
+Rocklake	Agate	24	29
+Robinson	Regan	36	47
+Robinson	Pingree	42	51
+Robinson	Pettibone	14	20
+Robinson	Medina	40	58
+Robinson	Hurdsfield	32	36
+Robinson	Goodrich	39	43
+Robinson	Driscoll	39	43
+Robinson	Denhoff	47	52
+Robinson	Dawson	36	41
+Robinson	Chaseley	37	41
+Robinson	Bowdon	43	48
+Riverdale	Mercer	34	39
+Riverdale	McClusky	47	52
+Riverdale	Max	30	32
+Riverdale	Hazen	28	38
+Riverdale	Golden Valley	48	53
+Riverdale	Garrison	24	29
+Riverdale	Douglas	43	49
+Riverdale	Coleharbor	10	14
+Riverdale	Center	41	49
+Riverdale	Beulah	37	43
+Riverdale	Benedict	41	49
+Richardton	Regent	45	54
+Richardton	New Salem	45	44
+Richardton	New England	49	55
+Richardton	Mott	36	47
+Richardton	Marshall	18	19
+Richardton	Manning	48	52
+Richardton	Lefor	27	33
+Richardton	Hebron	16	20
+Richardton	Halliday	33	34
+Richardton	Golden Valley	44	47
+Richardton	Glen Ullin	26	29
+Richardton	Gladstone	15	18
+Richardton	Dunn Center	46	46
+Richardton	Dodge	36	37
+Richardton	Dickinson	24	27
+Richardton	Belfield	45	44
+Richardton	Almont	49	50
+Rhame	Reeder	36	41
+Rhame	Marmarth	14	18
+Rhame	Bowman	13	18
+Rhame	Amidon	37	38
+Reynolds	Finley	49	53
+Reynolds	Portland	27	31
+Reynolds	Northwood	33	36
+Reynolds	Minto	49	46
+Reynolds	Mekinock	37	40
+Reynolds	Mayville	24	27
+Reynolds	Manvel	30	28
+Reynolds	Larimore	47	46
+Reynolds	Hunter	43	44
+Reynolds	Hillsboro	20	21
+Reynolds	Hatton	18	35
+Reynolds	Grandin	32	31
+Reynolds	Grand Forks AFB	35	39
+Reynolds	Grand Forks	21	23
+Reynolds	Gilby	44	48
+Reynolds	Gardner	39	36
+Reynolds	Galesburg	46	55
+Reynolds	Forest River	49	56
+Reynolds	Emerado	33	33
+Reynolds	Cummings	13	18
+Reynolds	Clifford	41	49
+Reynolds	Caledonia	26	37
+Reynolds	Buxton	7	11
+Reynolds	Blanchard	32	35
+Reynolds	Arvilla	38	37
+Reynolds	Arthur	49	49
+Reynolds	Argusville	46	42
+Reynolds	Ardoch	42	39
+Regent	Reeder	40	44
+Regent	New Leipzig	33	40
+Regent	New England	24	28
+Regent	Mott	14	19
+Regent	Lefor	18	22
+Regent	Hettinger	49	51
+Regent	Gladstone	30	38
+Regent	Elgin	38	44
+Regent	Dickinson	48	50
+Regent	Amidon	47	50
+Regan	Moffit	45	51
+Regan	Mercer	38	46
+Regan	Menoken	47	53
+Regan	McKenzie	40	47
+Regan	McClusky	46	51
+Regan	Mandan	41	47
+Regan	Goodrich	44	51
+Regan	Driscoll	42	49
+Regan	Denhoff	37	43
+Regan	Bismarck	37	43
+Regan	Baldwin	23	28
+Reeder	Orange	49	60
+Reeder	New England	34	37
+Reeder	Lemmon	42	47
+Reeder	Hettinger	17	20
+Reeder	Bowman	23	28
+Reeder	Amidon	45	49
+Ray	Powers Lake	40	45
+Ray	Palermo	45	47
+Ray	McGregor	28	32
+Ray	Epping	13	18
+Ray	Crosby	47	58
+Ray	Alamo	30	38
+Raleigh	New Leipzig	39	47
+Raleigh	Flasher	10	16
+Raleigh	Elgin	34	43
+Raleigh	Carson	19	26
+Raleigh	Almont	41	60
+Powers Lake	Portal	35	45
+Powers Lake	Palermo	35	46
+Powers Lake	Noonan	40	42
+Powers Lake	McGregor	15	17
+Powers Lake	Lignite	26	35
+Powers Lake	Kenmare	36	42
+Powers Lake	Flaxton	35	45
+Powers Lake	Donnybrook	38	41
+Powers Lake	Columbus	30	34
+Powers Lake	Carpio	47	49
+Powers Lake	Bowbells	34	42
+Powers Lake	Alamo	40	44
+Portland	Pillsbury	45	49
+Portland	Northwood	26	30
+Portland	Mekinock	42	54
+Portland	Mayville	2	4
+Portland	Luverne	46	60
+Portland	Larimore	39	44
+Portland	Jessie	43	59
+Portland	Hunter	28	32
+Portland	Hope	40	44
+Portland	Hillsboro	20	25
+Portland	Hatton	12	14
+Portland	Grandin	32	34
+Portland	Grand Forks AFB	40	52
+Portland	Grand Forks	45	47
+Portland	Gilby	46	60
+Portland	Gardner	38	40
+Portland	Galesburg	17	32
+Portland	Finley	23	25
+Portland	Erie	29	53
+Portland	Emerado	36	43
+Portland	Cummings	15	22
+Portland	Cooperstown	42	46
+Portland	Clifford	12	22
+Portland	Casselton	48	54
+Portland	Caledonia	26	39
+Portland	Buxton	21	24
+Portland	Blanchard	17	23
+Portland	Arvilla	34	45
+Portland	Arthur	34	38
+Portland	Argusville	46	46
+Portland	Aneta	41	48
+Portland	Amenia	41	47
+Portal	Noonan	28	31
+Portal	McGregor	49	53
+Portal	Lignite	9	14
+Portal	Kenmare	43	46
+Portal	Flaxton	14	17
+Portal	Crosby	42	48
+Portal	Columbus	18	23
+Portal	Bowbells	27	30
+Poplar Grove	Penn	21	35
+Poplar Grove	Oberon	33	52
+Poplar Grove	Munich	49	60
+Poplar Grove	Minnewaukan	21	33
+Poplar Grove	Michigan	45	57
+Poplar Grove	Maddock	40	55
+Poplar Grove	Leeds	36	49
+Poplar Grove	Lawton	45	60
+Poplar Grove	Lakota	35	48
+Poplar Grove	Knox	48	59
+Poplar Grove	Hampden	48	60
+Poplar Grove	Grandfield	49	60
+Poplar Grove	Fort Totten	21	39
+Poplar Grove	Esmond	46	58
+Poplar Grove	Edmore	49	60
+Poplar Grove	Devils Lake	8	22
+Poplar Grove	Crary	22	38
+Poplar Grove	Churchs Ferry	27	41
+Poplar Grove	Cando	42	55
+Poplar Grove	Brocket	48	60
+Poplar Grove	Brinsmade	24	44
+Plaza	Parshall	13	21
+Plaza	New Town	28	35
+Plaza	Max	46	52
+Plaza	Makoti	11	18
+Plaza	Douglas	32	45
+Plaza	Des Lacs	49	60
+Plaza	Carpio	47	60
+Plaza	Berthold	37	57
+Pisek	Petersburg	34	41
+Pisek	Park River	7	12
+Pisek	Osnabrock	44	55
+Pisek	Northwood	46	53
+Pisek	Niagara	28	35
+Pisek	Nekoma	49	60
+Pisek	Mountain	33	40
+Pisek	Minto	16	30
+Pisek	Milton	37	45
+Pisek	Michigan	40	46
+Pisek	Mekinock	36	50
+Pisek	Manvel	37	46
+Pisek	Lawton	45	54
+Pisek	Larimore	32	37
+Pisek	Lankin	9	20
+Pisek	Inkster	16	20
+Pisek	Hoople	20	24
+Pisek	Canton City	32	38
+Pisek	Hamilton	46	52
+Pisek	Grand Forks AFB	42	48
+Pisek	Grafton	20	24
+Pisek	Glasston	39	45
+Pisek	Gilby	27	33
+Pisek	Forest River	26	35
+Pisek	Fordville	10	24
+Pisek	Farmington	28	38
+Pisek	Fairdale	35	52
+Pisek	Emerado	42	46
+Pisek	Edmore	40	49
+Pisek	Edinburg	19	25
+Pisek	Drayton	42	47
+Pisek	Dahlen	21	31
+Pisek	Crystal	26	31
+Pisek	Cavalier	37	41
+Pisek	Bathgate	49	58
+Pisek	Arvilla	36	40
+Pisek	Ardoch	23	37
+Pisek	Adams	23	31
+Pingree	Pettibone	31	39
+Pingree	New Rockford	38	41
+Pingree	Montpelier	41	49
+Pingree	Medina	48	50
+Pingree	Kensal	28	32
+Pingree	Jamestown	20	23
+Pingree	Grace City	44	52
+Pingree	Glenfield	48	51
+Pingree	Eckelson	44	45
+Pingree	Courtenay	40	43
+Pingree	Cleveland	39	42
+Pingree	Cathay	43	50
+Pingree	Carrington	22	24
+Pingree	Buchanan	8	12
+Pillsbury	Courtenay	44	60
+Pillsbury	Page	24	26
+Pillsbury	Oriska	19	22
+Pillsbury	Nome	37	43
+Pillsbury	Mayville	47	51
+Pillsbury	Luverne	11	19
+Pillsbury	Kathryn	45	60
+Pillsbury	Jessie	42	48
+Pillsbury	Hunter	44	60
+Pillsbury	Hope	11	13
+Pillsbury	Hatton	47	50
+Pillsbury	Hannaford	31	38
+Pillsbury	Galesburg	29	45
+Pillsbury	Finley	22	23
+Pillsbury	Fingal	31	38
+Pillsbury	Erie	36	46
+Pillsbury	Eckelson	49	52
+Pillsbury	Dazey	23	31
+Pillsbury	Cooperstown	31	32
+Pillsbury	Clifford	29	44
+Pillsbury	Chaffee	49	55
+Pillsbury	Buffalo	35	38
+Pillsbury	Blanchard	39	60
+Pillsbury	Binford	49	52
+Pillsbury	Ayr	36	42
+Pillsbury	Arthur	45	60
+Pillsbury	Aneta	40	46
+Pillsbury	Absaraka	46	59
+Pettibone	Medina	29	47
+Pettibone	Hurdsfield	46	53
+Pettibone	Cleveland	39	60
+Pettibone	Cathay	45	60
+Pettibone	Buchanan	40	48
+Petersburg	Manvel	49	55
+Petersburg	Pekin	35	36
+Petersburg	Park River	39	41
+Petersburg	Northwood	36	40
+Petersburg	Niagara	7	10
+Petersburg	Michigan	6	10
+Petersburg	Mekinock	37	38
+Petersburg	McVille	25	36
+Petersburg	Lawton	35	38
+Petersburg	Larimore	22	25
+Petersburg	Lankin	30	35
+Petersburg	Lakota	16	18
+Petersburg	Jessie	44	58
+Petersburg	Inkster	34	35
+Petersburg	Hatton	48	51
+Petersburg	Grand Forks AFB	32	35
+Petersburg	Grand Forks	47	48
+Petersburg	Gilby	36	39
+Petersburg	Forest River	45	51
+Petersburg	Fordville	24	28
+Petersburg	Finley	41	51
+Petersburg	Fairdale	43	60
+Petersburg	Emerado	32	32
+Petersburg	Edmore	46	51
+Petersburg	Edinburg	40	40
+Petersburg	Devils Lake	43	42
+Petersburg	Dahlen	20	25
+Petersburg	Crary	31	33
+Petersburg	Cooperstown	46	57
+Petersburg	Brocket	29	32
+Petersburg	Arvilla	26	27
+Petersburg	Aneta	23	32
+Petersburg	Adams	36	45
+Perth	Penn	48	60
+Perth	Mylo	16	25
+Perth	Munich	36	57
+Perth	Hansboro	20	46
+Perth	Hampden	49	60
+Perth	Egeland	22	37
+Perth	Dunseith	46	60
+Perth	Churchs Ferry	42	55
+Perth	Cando	26	38
+Perth	Calvin	45	57
+Perth	Bisbee	9	20
+Perth	Belcourt	23	46
+Perth	Alsen	39	60
+Perth	Agate	10	20
+Penn	Oberon	38	47
+Penn	Minnewaukan	25	28
+Penn	Maddock	45	50
+Penn	Leeds	18	20
+Penn	Lawton	49	57
+Penn	Lakota	40	40
+Penn	Knox	30	30
+Penn	Fort Totten	26	32
+Penn	Egeland	37	47
+Penn	Devils Lake	13	14
+Penn	Crary	27	31
+Penn	Churchs Ferry	7	12
+Penn	Cando	22	26
+Penn	Brinsmade	19	31
+Penn	Bisbee	40	47
+Penn	Agate	45	53
+Pembina	Neche	16	25
+Pembina	Mountain	47	53
+Pembina	Hoople	49	56
+Pembina	Canton City	40	47
+Pembina	Hamilton	23	27
+Pembina	Glasston	29	33
+Pembina	Farmington	47	54
+Pembina	Drayton	29	29
+Pembina	Crystal	46	52
+Pembina	Cavalier	31	34
+Pembina	Bathgate	18	25
+Pekin	Oberon	49	60
+Pekin	Northwood	37	41
+Pekin	Niagara	41	42
+Pekin	New Rockford	46	52
+Pekin	Michigan	29	31
+Pekin	McVille	8	10
+Pekin	McHenry	28	35
+Pekin	Lawton	38	41
+Pekin	Larimore	45	47
+Pekin	Lakota	19	21
+Pekin	Jessie	22	28
+Pekin	Hatton	49	52
+Pekin	Hannaford	41	46
+Pekin	Grandfield	46	60
+Pekin	Grace City	40	51
+Pekin	Glenfield	38	43
+Pekin	Fort Totten	42	57
+Pekin	Finley	39	45
+Pekin	Edmore	48	54
+Pekin	Devils Lake	45	46
+Pekin	Crary	34	36
+Pekin	Cooperstown	35	38
+Pekin	Brocket	32	35
+Pekin	Binford	17	23
+Pekin	Aneta	21	25
+Parshall	Palermo	44	48
+Parshall	New Town	19	24
+Parshall	Makoti	18	22
+Parshall	Keene	43	50
+Parshall	Douglas	39	49
+Parshall	Berthold	44	60
+Park River	Emerado	49	53
+Park River	Osnabrock	37	44
+Park River	Niagara	33	36
+Park River	Nekoma	41	49
+Park River	Neche	49	54
+Park River	Mountain	25	29
+Park River	Minto	24	29
+Park River	Milton	30	34
+Park River	Michigan	45	47
+Park River	Mekinock	43	57
+Park River	Manvel	43	48
+Park River	Lawton	38	44
+Park River	Larimore	39	44
+Park River	Lankin	14	21
+Park River	Inkster	23	27
+Park River	Hoople	15	18
+Park River	Canton City	27	32
+Park River	Hamilton	41	46
+Park River	Grafton	15	18
+Park River	Glasston	34	39
+Park River	Gilby	35	40
+Park River	Forest River	34	42
+Park River	Fordville	21	25
+Park River	Farmington	23	31
+Park River	Fairdale	28	41
+Park River	Edmore	32	38
+Park River	Edinburg	12	15
+Park River	Drayton	37	40
+Park River	Dahlen	26	32
+Park River	Crystal	21	24
+Park River	Cavalier	32	34
+Park River	Brocket	45	54
+Park River	Bathgate	45	52
+Park River	Arvilla	44	47
+Park River	Ardoch	31	36
+Park River	Adams	16	21
+Palermo	New Town	39	46
+Palermo	Minot	47	48
+Palermo	Makoti	49	60
+Palermo	Kenmare	47	59
+Palermo	Donnybrook	42	46
+Palermo	Des Lacs	36	45
+Palermo	Carpio	33	36
+Palermo	Burlington	39	40
+Palermo	Bowbells	46	60
+Palermo	Berthold	24	28
+Page	Oriska	33	38
+Page	Nome	49	54
+Page	Mayville	45	60
+Page	Mapleton	44	43
+Page	Luverne	36	44
+Page	Hunter	19	36
+Page	Hope	14	16
+Page	Hillsboro	43	60
+Page	Harwood	42	59
+Page	Grandin	35	54
+Page	Gardner	29	48
+Page	Galesburg	16	31
+Page	Finley	30	32
+Page	Fingal	43	50
+Page	Erie	11	23
+Page	Enderlin	40	57
+Page	Dazey	47	55
+Page	Cooperstown	39	41
+Page	Clifford	21	41
+Page	Chaffee	37	45
+Page	Casselton	38	40
+Page	Buffalo	17	19
+Page	Blanchard	30	47
+Page	Ayr	12	19
+Page	Arthur	20	36
+Page	Argusville	36	55
+Page	Aneta	48	55
+Page	Amenia	28	45
+Page	Absaraka	21	37
+Osnabrock	Nekoma	17	23
+Osnabrock	Neche	47	58
+Osnabrock	Munich	37	52
+Osnabrock	Mountain	19	24
+Osnabrock	Milton	7	13
+Osnabrock	Maida	33	40
+Osnabrock	Lawton	36	41
+Osnabrock	Lankin	40	49
+Osnabrock	Langdon	17	24
+Osnabrock	Hoople	33	42
+Osnabrock	Canton City	28	40
+Osnabrock	Hannah	47	60
+Osnabrock	Hampden	36	52
+Osnabrock	Hamilton	40	50
+Osnabrock	Glasston	44	52
+Osnabrock	Fordville	47	53
+Osnabrock	Farmington	45	56
+Osnabrock	Fairdale	30	45
+Osnabrock	Egeland	47	60
+Osnabrock	Edmore	31	36
+Osnabrock	Edinburg	25	29
+Osnabrock	Crystal	27	33
+Osnabrock	Cavalier	31	38
+Osnabrock	Calvin	49	57
+Osnabrock	Brocket	44	52
+Osnabrock	Bathgate	43	56
+Osnabrock	Alsen	28	38
+Osnabrock	Adams	42	48
+Orrin	Martin	25	46
+Orrin	Maddock	44	60
+Orrin	Knox	40	54
+Orrin	Kief	39	60
+Orrin	Karlsruhe	45	60
+Orrin	Harvey	33	47
+Orrin	Esmond	24	39
+Orrin	Drake	25	49
+Orrin	Denhoff	47	60
+Orrin	Butte	47	60
+Orrin	Bantry	45	60
+Orrin	Balta	11	24
+Orrin	Balfour	33	55
+Orrin	Anamoose	18	37
+Oriska	Nome	18	24
+Oriska	Marion	48	52
+Oriska	Mapleton	37	34
+Oriska	Luverne	29	35
+Oriska	Litchville	41	47
+Oriska	Lisbon	40	46
+Oriska	Leonard	45	44
+Oriska	Kathryn	26	41
+Oriska	Jamestown	46	46
+Oriska	Hope	30	32
+Oriska	Hannaford	48	51
+Oriska	Galesburg	48	60
+Oriska	Fort Ransom	39	55
+Oriska	Finley	41	42
+Oriska	Fingal	12	19
+Oriska	Erie	38	50
+Oriska	Enderlin	31	39
+Oriska	Eckelson	30	33
+Oriska	Dazey	40	44
+Oriska	Clifford	48	60
+Oriska	Chaffee	30	36
+Oriska	Casselton	31	31
+Oriska	Buffalo	16	19
+Oriska	Ayr	29	36
+Oriska	Arthur	45	45
+Oriska	Amenia	39	40
+Oriska	Absaraka	27	40
+Orange	New Leipzig	33	48
+Orange	Mott	49	60
+Orange	Lemmon	7	19
+Orange	Hettinger	32	46
+Orange	Elgin	38	52
+Oberon	New Rockford	21	29
+Oberon	Minnewaukan	13	23
+Oberon	Maddock	18	43
+Oberon	Leeds	34	43
+Oberon	Knox	46	53
+Oberon	Grandfield	13	33
+Oberon	Grace City	45	59
+Oberon	Fort Totten	14	22
+Oberon	Fessenden	47	55
+Oberon	Esmond	37	46
+Oberon	Devils Lake	26	36
+Oberon	Crary	39	49
+Oberon	Churchs Ferry	32	43
+Oberon	Cathay	44	54
+Oberon	Carrington	37	44
+Oberon	Cando	46	55
+Oberon	Brinsmade	22	39
+Oberon	Bremen	20	53
+Oakes	Milnor	38	41
+Oakes	Marion	48	51
+Oakes	Litchville	41	46
+Oakes	Lisbon	40	44
+Oakes	Lidgerwood	48	55
+Oakes	LaMoure	26	30
+Oakes	Kathryn	43	49
+Oakes	Havana	34	39
+Oakes	Gwinner	26	28
+Oakes	Fullerton	17	31
+Oakes	Fort Ransom	35	44
+Oakes	Forman	24	28
+Oakes	Forbes	49	57
+Oakes	Ellendale	30	33
+Oakes	Edgeley	47	51
+Oakes	Cogswell	17	21
+Oakes	Cayuga	37	43
+Oakes	Berlin	38	43
+Norwich	Minot AFB	30	39
+Norwich	Minot	15	22
+Norwich	Max	42	45
+Norwich	Lansford	45	53
+Norwich	Kramer	43	60
+Norwich	Kief	43	54
+Norwich	Karlsruhe	39	52
+Norwich	Granville	8	10
+Norwich	Glenburn	38	47
+Norwich	Drake	44	51
+Norwich	Douglas	49	56
+Norwich	Des Lacs	29	41
+Norwich	Deering	14	21
+Norwich	Carpio	42	43
+Norwich	Butte	44	60
+Norwich	Burlington	23	29
+Norwich	Berthold	38	41
+Norwich	Benedict	38	55
+Norwich	Bantry	45	54
+Norwich	Balfour	36	42
+Northwood	Niagara	30	35
+Northwood	Michigan	42	46
+Northwood	Mekinock	28	38
+Northwood	McVille	29	31
+Northwood	Mayville	28	34
+Northwood	Manvel	48	47
+Northwood	Larimore	14	18
+Northwood	Jessie	45	53
+Northwood	Inkster	32	38
+Northwood	Hope	45	56
+Northwood	Hatton	13	16
+Northwood	Grand Forks AFB	26	37
+Northwood	Grand Forks	38	42
+Northwood	Gilby	33	42
+Northwood	Galesburg	42	59
+Northwood	Forest River	43	55
+Northwood	Fordville	48	54
+Northwood	Finley	28	37
+Northwood	Emerado	22	27
+Northwood	Dahlen	44	51
+Northwood	Cummings	44	48
+Northwood	Cooperstown	47	52
+Northwood	Clifford	36	49
+Northwood	Buxton	38	41
+Northwood	Blanchard	44	53
+Northwood	Arvilla	16	25
+Northwood	Aneta	24	27
+Noonan	McGregor	24	40
+Noonan	Lignite	21	26
+Noonan	Fortuna	35	39
+Noonan	Flaxton	28	31
+Noonan	Crosby	14	20
+Noonan	Columbus	11	15
+Noonan	Bowbells	41	44
+Noonan	Ambrose	25	32
+Noonan	Alamo	45	50
+Nome	Milnor	49	54
+Nome	Marion	30	35
+Nome	Luverne	47	56
+Nome	Litchville	23	30
+Nome	Lisbon	22	25
+Nome	Leonard	32	35
+Nome	LaMoure	45	48
+Nome	Kindred	42	47
+Nome	Kathryn	8	20
+Nome	Hope	48	52
+Nome	Gwinner	38	44
+Nome	Fort Ransom	22	34
+Nome	Forman	47	53
+Nome	Fingal	6	11
+Nome	Enderlin	13	18
+Nome	Eckelson	46	48
+Nome	Dickey	42	60
+Nome	Chaffee	46	55
+Nome	Casselton	47	49
+Nome	Buffalo	32	37
+Nome	Ayr	46	54
+Nome	Absaraka	44	58
+Niagara	Mountain	48	50
+Niagara	Michigan	13	15
+Niagara	Mekinock	31	34
+Niagara	McVille	31	40
+Niagara	Manvel	49	48
+Niagara	Lawton	42	44
+Niagara	Larimore	16	21
+Niagara	Lankin	24	30
+Niagara	Lakota	23	23
+Niagara	Jessie	49	60
+Niagara	Inkster	28	31
+Niagara	Hoople	48	53
+Niagara	Hatton	43	47
+Niagara	Grand Forks AFB	27	31
+Niagara	Grand Forks	41	44
+Niagara	Grafton	49	54
+Niagara	Gilby	30	35
+Niagara	Forest River	39	47
+Niagara	Fordville	18	23
+Niagara	Finley	47	55
+Niagara	Emerado	27	28
+Niagara	Edinburg	34	35
+Niagara	Devils Lake	49	47
+Niagara	Dahlen	14	20
+Niagara	Crary	38	38
+Niagara	Brocket	35	37
+Niagara	Arvilla	21	23
+Niagara	Ardoch	49	56
+Niagara	Aneta	28	36
+Niagara	Adams	38	41
+Newburg	Mohall	30	42
+Newburg	Minot AFB	46	60
+Newburg	Maxbass	10	20
+Newburg	Lansford	34	49
+Newburg	Kramer	13	25
+Newburg	Granville	47	60
+Newburg	Glenburn	29	57
+Newburg	Dunseith	48	57
+Newburg	Deering	39	60
+Newburg	Clay	37	59
+Newburg	Bottineau	30	38
+Newburg	Bantry	28	50
+Newburg	Antler	36	51
+New Town	Mandaree	31	40
+New Town	Makoti	33	37
+New Town	Keene	24	30
+New Salem	Menoken	45	46
+New Salem	Mandan	28	30
+New Salem	Hebron	32	34
+New Salem	Hazen	41	49
+New Salem	Glen Ullin	24	27
+New Salem	Center	25	31
+New Salem	Bismarck	32	34
+New Salem	Beulah	47	47
+New Salem	Baldwin	48	50
+New Salem	Almont	13	21
+New Rockford	Maddock	42	56
+New Rockford	Minnewaukan	33	37
+New Rockford	McHenry	34	44
+New Rockford	Kensal	41	48
+New Rockford	Harvey	43	50
+New Rockford	Hamberg	28	34
+New Rockford	Grandfield	14	30
+New Rockford	Grace City	26	39
+New Rockford	Glenfield	41	46
+New Rockford	Fort Totten	28	35
+New Rockford	Fessenden	25	32
+New Rockford	Devils Lake	40	48
+New Rockford	Chaseley	49	51
+New Rockford	Cathay	21	31
+New Rockford	Carrington	17	22
+New Rockford	Buchanan	46	51
+New Rockford	Brinsmade	43	52
+New Rockford	Bremen	14	38
+New Rockford	Bowdon	44	48
+New Rockford	Binford	45	60
+New Leipzig	Mott	18	23
+New Leipzig	Lemmon	41	42
+New Leipzig	Hebron	48	53
+New Leipzig	Glen Ullin	38	41
+New Leipzig	Flasher	36	49
+New Leipzig	Elgin	5	7
+New Leipzig	Carson	19	28
+New England	Mott	37	44
+New England	Manning	49	58
+New England	Lefor	42	50
+New England	Hettinger	43	45
+New England	Gladstone	37	43
+New England	Dickinson	24	27
+New England	Bowman	48	51
+New England	Belfield	41	44
+New England	Amidon	25	28
+Nekoma	Munich	29	44
+Nekoma	Mountain	31	36
+Nekoma	Milton	19	25
+Nekoma	Michigan	49	53
+Nekoma	Maida	30	35
+Nekoma	Lawton	20	24
+Nekoma	Lankin	39	47
+Nekoma	Langdon	13	19
+Nekoma	Lakota	38	42
+Nekoma	Hoople	45	54
+Nekoma	Canton City	40	52
+Nekoma	Hannah	44	56
+Nekoma	Hampden	15	37
+Nekoma	Fairdale	14	27
+Nekoma	Egeland	38	60
+Nekoma	Edmore	15	19
+Nekoma	Edinburg	36	41
+Nekoma	Crystal	38	45
+Nekoma	Cavalier	48	53
+Nekoma	Calvin	45	52
+Nekoma	Brocket	27	34
+Nekoma	Alsen	20	30
+Nekoma	Adams	26	30
+Neche	Mountain	32	39
+Neche	Milton	45	53
+Neche	Hoople	34	43
+Neche	Canton City	25	34
+Neche	Hamilton	17	22
+Neche	Grafton	45	52
+Neche	Glasston	24	29
+Neche	Farmington	40	51
+Neche	Edinburg	46	52
+Neche	Drayton	44	48
+Neche	Crystal	32	39
+Neche	Cavalier	16	20
+Neche	Bathgate	11	15
+Napoleon	Moffit	39	50
+Napoleon	Medina	48	52
+Napoleon	Linton	40	48
+Napoleon	Lehr	38	44
+Napoleon	Kintyre	13	23
+Napoleon	Hazelton	26	36
+Napoleon	Hague	44	60
+Napoleon	Gackle	38	59
+Napoleon	Driscoll	45	48
+Napoleon	Dawson	25	28
+Napoleon	Braddock	23	36
+Mylo	Munich	39	54
+Mylo	Knox	25	60
+Mylo	Hansboro	33	46
+Mylo	Egeland	24	34
+Mylo	Dunseith	31	39
+Mylo	Churchs Ferry	44	52
+Mylo	Cando	29	35
+Mylo	Calvin	48	54
+Mylo	Bottineau	49	56
+Mylo	Bisbee	11	17
+Mylo	Belcourt	21	32
+Mylo	Alsen	42	60
+Mylo	Agate	7	12
+Munich	Milton	39	52
+Munich	Maida	45	49
+Munich	Lawton	48	60
+Munich	Langdon	28	32
+Munich	Hansboro	41	51
+Munich	Hannah	37	46
+Munich	Hampden	18	31
+Munich	Fairdale	42	60
+Munich	Egeland	15	26
+Munich	Edmore	39	46
+Munich	Devils Lake	40	54
+Munich	Churchs Ferry	45	56
+Munich	Cando	29	39
+Munich	Calvin	16	20
+Munich	Bisbee	27	43
+Munich	Alsen	9	15
+Munich	Agate	33	49
+Mountain	Minto	47	54
+Mountain	Milton	12	16
+Mountain	Maida	44	47
+Mountain	Lankin	29	35
+Mountain	Langdon	28	31
+Mountain	Inkster	49	56
+Mountain	Hoople	22	28
+Mountain	Canton City	9	17
+Mountain	Hamilton	25	30
+Mountain	Grafton	38	43
+Mountain	Glasston	20	37
+Mountain	Fordville	36	39
+Mountain	Farmington	33	42
+Mountain	Fairdale	42	56
+Mountain	Edmore	45	49
+Mountain	Edinburg	13	15
+Mountain	Drayton	39	46
+Mountain	Dahlen	41	46
+Mountain	Crystal	15	20
+Mountain	Cavalier	16	18
+Mountain	Bathgate	29	36
+Mountain	Alsen	42	51
+Mountain	Adams	30	35
+Mott	Lefor	32	42
+Mott	Hettinger	40	59
+Mott	Gladstone	48	57
+Mott	Elgin	23	28
+Mott	Carson	38	48
+Mooreton	Milnor	28	30
+Mooreton	McLeod	32	51
+Mooreton	Mantador	13	20
+Mooreton	Lidgerwood	26	31
+Mooreton	Leonard	49	48
+Mooreton	Kindred	37	38
+Mooreton	Horace	39	38
+Mooreton	Hankinson	21	25
+Mooreton	Gwinner	39	41
+Mooreton	Great Bend	11	15
+Mooreton	Forman	46	48
+Mooreton	Fargo	47	46
+Mooreton	Fairmount	28	30
+Mooreton	Davenport	45	46
+Mooreton	Colfax	19	21
+Mooreton	Christine	25	26
+Mooreton	Cayuga	37	42
+Mooreton	Barney	6	10
+Mooreton	Abercrombie	20	28
+Montpelier	Medina	47	50
+Montpelier	Marion	30	40
+Montpelier	Litchville	36	46
+Montpelier	LaMoure	49	54
+Montpelier	Kulm	45	53
+Montpelier	Jud	27	40
+Montpelier	Jamestown	20	29
+Montpelier	Gackle	32	39
+Montpelier	Edgeley	30	37
+Montpelier	Eckelson	40	46
+Montpelier	Dickey	29	45
+Montpelier	Courtenay	48	60
+Montpelier	Cleveland	38	43
+Montpelier	Buchanan	34	41
+Montpelier	Berlin	41	48
+Mohall	Minot AFB	35	40
+Mohall	Minot	46	48
+Mohall	Maxbass	20	26
+Mohall	Lansford	15	25
+Mohall	Kramer	49	56
+Mohall	Kenmare	33	35
+Mohall	Glenburn	32	35
+Mohall	Flaxton	49	50
+Mohall	Donnybrook	39	41
+Mohall	Deering	49	60
+Mohall	Colquhoun	21	37
+Mohall	Clay	6	17
+Mohall	Carpio	31	31
+Mohall	Burlington	49	50
+Mohall	Bowbells	36	37
+Mohall	Berthold	40	45
+Mohall	Antler	24	28
+Moffit	Menoken	22	25
+Moffit	McKenzie	16	19
+Moffit	Mandan	40	40
+Moffit	Linton	29	30
+Moffit	Kintyre	33	40
+Moffit	Hazelton	14	16
+Moffit	Driscoll	18	22
+Moffit	Dawson	38	40
+Moffit	Braddock	27	33
+Moffit	Bismarck	36	37
+Minto	Bathgate	43	59
+Minto	Mekinock	31	41
+Minto	Manvel	18	19
+Minto	Larimore	45	55
+Minto	Lankin	39	49
+Minto	Inkster	29	37
+Minto	Hoople	27	33
+Minto	Canton City	38	45
+Minto	Hamilton	37	45
+Minto	Grand Forks AFB	36	51
+Minto	Grand Forks	31	36
+Minto	Grafton	9	10
+Minto	Glasston	29	35
+Minto	Gilby	25	34
+Minto	Forest River	11	23
+Minto	Fordville	24	45
+Minto	Farmington	16	24
+Minto	Emerado	43	47
+Minto	Edinburg	37	42
+Minto	Drayton	28	32
+Minto	Crystal	32	38
+Minto	Cavalier	43	48
+Minto	Arvilla	37	52
+Minto	Ardoch	6	7
+Minto	Adams	41	48
+Minot AFB	Minot	14	23
+Minot AFB	Maxbass	36	46
+Minot AFB	Max	44	53
+Minot AFB	Lansford	19	27
+Minot AFB	Granville	37	46
+Minot AFB	Glenburn	12	20
+Minot AFB	Donnybrook	35	53
+Minot AFB	Des Lacs	28	43
+Minot AFB	Deering	18	34
+Minot AFB	Clay	31	52
+Minot AFB	Carpio	26	42
+Minot AFB	Burlington	18	28
+Minot AFB	Berthold	37	43
+Minot AFB	Antler	41	48
+Minot	Maxbass	47	54
+Minot	Max	29	32
+Minot	Makoti	43	47
+Minot	Lansford	30	35
+Minot	Kief	49	59
+Minot	Karlsruhe	45	57
+Minot	Granville	22	26
+Minot	Glenburn	23	29
+Minot	Garrison	46	50
+Minot	Douglas	35	43
+Minot	Donnybrook	36	38
+Minot	Des Lacs	13	25
+Minot	Deering	22	30
+Minot	Coleharbor	49	48
+Minot	Clay	42	60
+Minot	Carpio	26	27
+Minot	Butte	49	60
+Minot	Burlington	8	13
+Minot	Berthold	23	25
+Minot	Benedict	39	47
+Minot	Balfour	42	46
+Minnewaukan	Maddock	20	26
+Minnewaukan	Leeds	22	25
+Minnewaukan	Knox	34	35
+Minnewaukan	Hamberg	35	49
+Minnewaukan	Grandfield	29	43
+Minnewaukan	Fort Totten	18	24
+Minnewaukan	Fessenden	49	60
+Minnewaukan	Esmond	26	29
+Minnewaukan	Egeland	49	58
+Minnewaukan	Devils Lake	23	27
+Minnewaukan	Crary	37	43
+Minnewaukan	Churchs Ferry	20	25
+Minnewaukan	Carrington	49	52
+Minnewaukan	Cando	34	37
+Minnewaukan	Brinsmade	10	21
+Minnewaukan	Bremen	42	60
+Minnewaukan	Balta	47	54
+Milton	Maida	40	43
+Milton	Lawton	38	41
+Milton	Lankin	33	40
+Milton	Langdon	23	27
+Milton	Hoople	26	33
+Milton	Canton City	21	32
+Milton	Hampden	38	51
+Milton	Hamilton	37	44
+Milton	Grafton	42	48
+Milton	Glasston	36	43
+Milton	Fordville	40	44
+Milton	Farmington	38	47
+Milton	Fairdale	32	44
+Milton	Egeland	49	60
+Milton	Edmore	33	35
+Milton	Edinburg	17	20
+Milton	Drayton	43	52
+Milton	Dahlen	45	51
+Milton	Crystal	19	25
+Milton	Cavalier	28	32
+Milton	Brocket	45	51
+Milton	Bathgate	41	50
+Milton	Alsen	30	38
+Milton	Adams	35	40
+Milnor	McLeod	17	36
+Milnor	Mantador	29	37
+Milnor	Lisbon	27	31
+Milnor	Lidgerwood	29	34
+Milnor	Leonard	48	51
+Milnor	Kindred	49	53
+Milnor	Havana	30	34
+Milnor	Hankinson	42	48
+Milnor	Gwinner	12	16
+Milnor	Great Bend	39	42
+Milnor	Fort Ransom	45	57
+Milnor	Forman	19	22
+Milnor	Enderlin	44	52
+Milnor	Colfax	46	47
+Milnor	Cogswell	26	32
+Milnor	Cayuga	33	39
+Milnor	Barney	22	24
+Milnor	Abercrombie	47	55
+Michigan	Mekinock	42	44
+Michigan	McVille	35	37
+Michigan	Lawton	29	34
+Michigan	Larimore	28	30
+Michigan	Lankin	28	35
+Michigan	Lakota	11	13
+Michigan	Jessie	49	55
+Michigan	Inkster	40	41
+Michigan	Grand Forks AFB	38	40
+Michigan	Gilby	41	45
+Michigan	Fort Totten	49	51
+Michigan	Fordville	30	33
+Michigan	Finley	47	57
+Michigan	Fairdale	37	51
+Michigan	Emerado	38	38
+Michigan	Edmore	40	46
+Michigan	Edinburg	46	46
+Michigan	Devils Lake	37	37
+Michigan	Dahlen	18	29
+Michigan	Crary	26	28
+Michigan	Brocket	23	27
+Michigan	Binford	45	50
+Michigan	Arvilla	32	32
+Michigan	Aneta	29	37
+Michigan	Adams	29	35
+Mercer	McClusky	13	16
+Mercer	Max	49	50
+Mercer	Kief	35	60
+Mercer	Hurdsfield	40	46
+Mercer	Goodrich	29	36
+Mercer	Garrison	43	47
+Mercer	Denhoff	22	30
+Mercer	Coleharbor	28	32
+Mercer	Chaseley	45	51
+Mercer	Butte	26	44
+Mercer	Benedict	40	50
+Mercer	Balfour	41	60
+Mercer	Baldwin	37	39
+Menoken	McKenzie	5	8
+Menoken	Mandan	18	22
+Menoken	Hazelton	36	38
+Menoken	Driscoll	19	23
+Menoken	Dawson	40	40
+Menoken	Braddock	49	55
+Menoken	Bismarck	12	17
+Menoken	Baldwin	28	32
+Mekinock	Mayville	44	56
+Mekinock	Manvel	13	22
+Mekinock	Larimore	20	28
+Mekinock	Inkster	22	36
+Mekinock	Hoople	48	60
+Mekinock	Hatton	29	38
+Mekinock	Grand Forks AFB	4	10
+Mekinock	Grand Forks	19	28
+Mekinock	Grafton	40	50
+Mekinock	Gilby	9	21
+Mekinock	Forest River	18	37
+Mekinock	Fordville	34	53
+Mekinock	Farmington	48	60
+Mekinock	Emerado	6	13
+Mekinock	Drayton	48	55
+Mekinock	Dahlen	44	51
+Mekinock	Cummings	48	53
+Mekinock	Buxton	42	46
+Mekinock	Arvilla	12	18
+Mekinock	Ardoch	25	33
+Medora	Golva	38	44
+Medora	Gladstone	48	46
+Medora	Fairfield	37	37
+Medora	Dickinson	36	36
+Medora	Belfield	18	23
+Medora	Beach	25	28
+Medina	Lehr	45	56
+Medina	Jud	48	60
+Medina	Jamestown	30	31
+Medina	Gackle	29	40
+Medina	Driscoll	42	40
+Medina	Dawson	23	25
+Medina	Cleveland	10	13
+Medina	Buchanan	40	40
+McVille	Fordville	48	58
+McVille	McHenry	36	45
+McVille	Lawton	44	49
+McVille	Larimore	37	39
+McVille	Lakota	25	29
+McVille	Jessie	28	35
+McVille	Hope	49	56
+McVille	Hatton	41	43
+McVille	Hannaford	47	52
+McVille	Grace City	48	60
+McVille	Glenfield	45	50
+McVille	Finley	32	36
+McVille	Dahlen	46	52
+McVille	Crary	40	44
+McVille	Cooperstown	36	42
+McVille	Brocket	38	42
+McVille	Binford	24	30
+McVille	Arvilla	43	47
+McVille	Aneta	13	17
+McLeod	Mantador	33	57
+McLeod	Lisbon	28	54
+McLeod	Lidgerwood	33	54
+McLeod	Leonard	31	39
+McLeod	Kindred	32	41
+McLeod	Horace	44	54
+McLeod	Havana	46	60
+McLeod	Hankinson	46	60
+McLeod	Gwinner	28	47
+McLeod	Great Bend	43	60
+McLeod	Fort Ransom	47	60
+McLeod	Forman	35	54
+McLeod	Enderlin	38	60
+McLeod	Davenport	39	51
+McLeod	Colfax	25	40
+McLeod	Cogswell	42	60
+McLeod	Chaffee	46	60
+McLeod	Cayuga	26	60
+McLeod	Casselton	48	57
+McLeod	Barney	26	45
+McKenzie	Mandan	23	25
+McKenzie	Linton	45	46
+McKenzie	Kintyre	49	56
+McKenzie	Hazelton	30	32
+McKenzie	Driscoll	14	17
+McKenzie	Dawson	33	34
+McKenzie	Braddock	43	49
+McKenzie	Bismarck	18	22
+McKenzie	Baldwin	33	36
+McHenry	Lakota	47	56
+McHenry	Kensal	27	47
+McHenry	Jessie	17	33
+McHenry	Hannaford	36	40
+McHenry	Grandfield	46	60
+McHenry	Grace City	11	23
+McHenry	Glenfield	9	14
+McHenry	Fort Totten	46	60
+McHenry	Finley	48	51
+McHenry	Dazey	45	50
+McHenry	Courtenay	25	28
+McHenry	Cooperstown	30	33
+McHenry	Carrington	35	41
+McHenry	Buchanan	49	60
+McHenry	Bremen	48	60
+McHenry	Binford	12	24
+McHenry	Aneta	38	58
+McGregor	Lignite	42	47
+McGregor	Grenora	48	53
+McGregor	Flaxton	49	52
+McGregor	Epping	41	47
+McGregor	Crosby	43	50
+McGregor	Columbus	32	36
+McGregor	Bowbells	48	55
+McGregor	Alamo	26	29
+McClusky	Martin	43	48
+McClusky	Kief	30	60
+McClusky	Hurdsfield	27	30
+McClusky	Goodrich	16	20
+McClusky	Drake	44	49
+McClusky	Denhoff	9	14
+McClusky	Coleharbor	41	45
+McClusky	Chaseley	32	35
+McClusky	Butte	39	60
+McClusky	Bowdon	38	42
+McClusky	Anamoose	37	41
+Mayville	Luverne	48	60
+Mayville	Larimore	41	48
+Mayville	Jessie	45	60
+Mayville	Hunter	26	28
+Mayville	Hope	42	47
+Mayville	Hillsboro	18	21
+Mayville	Hatton	15	18
+Mayville	Harwood	49	46
+Mayville	Grandin	30	31
+Mayville	Grand Forks AFB	42	56
+Mayville	Grand Forks	43	43
+Mayville	Gilby	48	60
+Mayville	Gardner	36	36
+Mayville	Galesburg	19	34
+Mayville	Finley	25	29
+Mayville	Erie	39	48
+Mayville	Emerado	38	46
+Mayville	Cummings	13	18
+Mayville	Cooperstown	44	49
+Mayville	Clifford	14	23
+Mayville	Casselton	46	51
+Mayville	Caledonia	24	36
+Mayville	Buxton	19	21
+Mayville	Blanchard	15	19
+Mayville	Ayr	49	60
+Mayville	Arvilla	36	48
+Mayville	Arthur	32	34
+Mayville	Argusville	43	42
+Mayville	Aneta	43	51
+Mayville	Amenia	39	44
+Mayville	Absaraka	49	60
+Maxbass	Lansford	24	31
+Maxbass	Kramer	23	44
+Maxbass	Glenburn	19	40
+Maxbass	Deering	29	60
+Maxbass	Colquhoun	41	60
+Maxbass	Clay	26	41
+Maxbass	Bottineau	39	44
+Maxbass	Bantry	39	60
+Maxbass	Antler	25	33
+Max	Makoti	37	38
+Max	Kief	39	60
+Max	Garrison	18	23
+Max	Douglas	13	21
+Max	Des Lacs	41	51
+Max	Coleharbor	21	22
+Max	Butte	30	50
+Max	Burlington	35	39
+Max	Benedict	11	20
+Martin	Kief	27	32
+Martin	Karlsruhe	34	41
+Martin	Hurdsfield	32	34
+Martin	Harvey	9	13
+Martin	Hamberg	40	42
+Martin	Goodrich	41	46
+Martin	Fessenden	26	29
+Martin	Esmond	35	40
+Martin	Drake	14	16
+Martin	Denhoff	35	41
+Martin	Chaseley	37	40
+Martin	Cathay	43	49
+Martin	Butte	36	45
+Martin	Bremen	45	56
+Martin	Bowdon	44	45
+Martin	Balta	39	45
+Martin	Balfour	21	22
+Martin	Anamoose	7	9
+Marshall	Manning	43	44
+Marshall	Lefor	43	51
+Marshall	Killdeer	35	37
+Marshall	Hebron	34	38
+Marshall	Hazen	46	52
+Marshall	Halliday	15	17
+Marshall	Golden Valley	26	30
+Marshall	Glen Ullin	44	47
+Marshall	Gladstone	31	36
+Marshall	Dunn Center	28	30
+Marshall	Dodge	18	21
+Marshall	Dickinson	42	45
+Marshall	Beulah	41	46
+Marmarth	Golva	36	60
+Marmarth	Bowman	28	34
+Marion	Litchville	9	16
+Marion	Lisbon	45	50
+Marion	LaMoure	18	48
+Marion	Kathryn	23	32
+Marion	Jud	36	47
+Marion	Jamestown	39	45
+Marion	Gackle	41	46
+Marion	Fullerton	37	60
+Marion	Fort Ransom	29	44
+Marion	Fingal	36	44
+Marion	Enderlin	36	44
+Marion	Edgeley	39	45
+Marion	Eckelson	23	45
+Marion	Dickey	12	33
+Marion	Berlin	24	53
+Mapleton	Leonard	24	26
+Mapleton	Kindred	19	26
+Mapleton	Hunter	28	33
+Mapleton	Horace	14	20
+Mapleton	Hillsboro	42	46
+Mapleton	Harwood	14	20
+Mapleton	Grandin	30	36
+Mapleton	Gardner	24	32
+Mapleton	Galesburg	43	55
+Mapleton	Fingal	48	48
+Mapleton	Fargo	15	19
+Mapleton	Erie	31	44
+Mapleton	Enderlin	43	47
+Mapleton	Davenport	17	24
+Mapleton	Colfax	40	40
+Mapleton	Clifford	49	60
+Mapleton	Christine	32	31
+Mapleton	Chaffee	22	29
+Mapleton	Casselton	8	12
+Mapleton	Buffalo	28	29
+Mapleton	Blanchard	39	44
+Mapleton	Ayr	32	47
+Mapleton	Arthur	22	26
+Mapleton	Argusville	16	25
+Mapleton	Amenia	16	20
+Mapleton	Absaraka	24	37
+Mapleton	Abercrombie	41	41
+Manvel	Larimore	32	42
+Manvel	Lankin	47	60
+Manvel	Inkster	23	31
+Manvel	Hoople	46	51
+Manvel	Hillsboro	49	45
+Manvel	Hatton	49	49
+Manvel	Grand Forks AFB	17	31
+Manvel	Grand Forks	13	19
+Manvel	Grafton	27	28
+Manvel	Glasston	48	53
+Manvel	Gilby	14	20
+Manvel	Forest River	18	28
+Manvel	Fordville	36	48
+Manvel	Farmington	34	43
+Manvel	Emerado	25	29
+Manvel	Drayton	35	33
+Manvel	Dahlen	37	57
+Manvel	Cummings	41	42
+Manvel	Buxton	35	35
+Manvel	Arvilla	30	33
+Manvel	Ardoch	11	11
+Mantador	Lidgerwood	14	33
+Mantador	Leonard	46	56
+Mantador	Havana	46	60
+Mantador	Hankinson	11	22
+Mantador	Gwinner	40	48
+Mantador	Great Bend	8	17
+Mantador	Forman	47	55
+Mantador	Fairmount	25	33
+Mantador	Colfax	31	36
+Mantador	Christine	37	41
+Mantador	Cayuga	25	44
+Mantador	Barney	8	17
+Mantador	Abercrombie	32	43
+Manning	Mandaree	43	50
+Manning	Lefor	48	54
+Manning	Killdeer	10	13
+Manning	Halliday	30	33
+Manning	Grassy Butte	34	35
+Manning	Golden Valley	44	49
+Manning	Gladstone	35	39
+Manning	Fairfield	40	40
+Manning	Dunn Center	15	19
+Manning	Dodge	37	39
+Manning	Dickinson	24	29
+Manning	Belfield	44	47
+Mandaree	Killdeer	32	36
+Mandaree	Keene	25	31
+Mandaree	Dunn Center	41	48
+Mandaree	Arnegard	40	50
+Mandan	Glen Ullin	49	48
+Mandan	Flasher	41	43
+Mandan	Driscoll	37	37
+Mandan	Center	36	39
+Mandan	Cannon Ball	41	46
+Mandan	Bismarck	5	11
+Mandan	Baldwin	21	26
+Mandan	Almont	40	44
+Makoti	Garrison	43	51
+Makoti	Douglas	23	34
+Makoti	Donnybrook	47	60
+Makoti	Des Lacs	40	60
+Makoti	Carpio	38	55
+Makoti	Burlington	49	53
+Makoti	Berthold	28	46
+Makoti	Benedict	47	56
+Maida	Lawton	49	52
+Maida	Langdon	16	19
+Maida	Hannah	46	55
+Maida	Hampden	48	60
+Maida	Fairdale	43	55
+Maida	Edmore	44	47
+Maida	Calvin	48	52
+Maida	Alsen	41	50
+Maddock	Leeds	30	41
+Maddock	Knox	31	42
+Maddock	Harvey	46	52
+Maddock	Hamberg	15	25
+Maddock	Grandfield	24	58
+Maddock	Fort Totten	37	46
+Maddock	Fessenden	28	41
+Maddock	Esmond	20	26
+Maddock	Devils Lake	43	49
+Maddock	Churchs Ferry	39	47
+Maddock	Cathay	34	49
+Maddock	Brinsmade	30	43
+Maddock	Bremen	21	40
+Maddock	Bowdon	46	58
+Maddock	Balta	41	50
+Luverne	Jessie	34	51
+Luverne	Hope	23	28
+Luverne	Hatton	49	60
+Luverne	Hannaford	26	32
+Luverne	Glenfield	43	55
+Luverne	Galesburg	41	60
+Luverne	Finley	23	36
+Luverne	Fingal	41	52
+Luverne	Erie	48	60
+Luverne	Eckelson	40	52
+Luverne	Dazey	17	25
+Luverne	Courtenay	48	57
+Luverne	Cooperstown	22	34
+Luverne	Clifford	40	60
+Luverne	Buffalo	45	51
+Luverne	Binford	40	54
+Luverne	Ayr	48	58
+Luverne	Aneta	41	59
+Litchville	Hannaford	49	60
+Litchville	Dazey	40	60
+Litchville	Lisbon	39	44
+Litchville	Leonard	49	54
+Litchville	LaMoure	36	41
+Litchville	Kathryn	16	25
+Litchville	Jud	42	55
+Litchville	Jamestown	45	53
+Litchville	Gackle	46	54
+Litchville	Fort Ransom	23	38
+Litchville	Fingal	30	38
+Litchville	Enderlin	30	37
+Litchville	Edgeley	45	52
+Litchville	Eckelson	27	48
+Litchville	Dickey	22	48
+Litchville	Berlin	47	54
+Lisbon	Leonard	35	38
+Lisbon	LaMoure	34	38
+Lisbon	Kindred	46	49
+Lisbon	Kathryn	31	38
+Lisbon	Havana	35	40
+Lisbon	Gwinner	15	20
+Lisbon	Fort Ransom	18	27
+Lisbon	Forman	24	28
+Lisbon	Fingal	29	35
+Lisbon	Enderlin	17	22
+Lisbon	Colfax	40	48
+Lisbon	Cogswell	32	38
+Lisbon	Chaffee	38	60
+Lisbon	Cayuga	38	44
+Lisbon	Buffalo	39	56
+Lisbon	Berlin	45	52
+Lisbon	Barney	45	47
+Lisbon	Abercrombie	48	60
+Linton	Lehr	44	50
+Linton	Kintyre	36	44
+Linton	Hazelton	15	19
+Linton	Hague	23	26
+Linton	Driscoll	47	49
+Linton	Braddock	30	37
+Lignite	Kenmare	38	43
+Lignite	Flaxton	9	14
+Lignite	Crosby	35	42
+Lignite	Columbus	11	17
+Lignite	Bowbells	22	26
+Lignite	Ambrose	46	54
+Lidgerwood	Leonard	46	52
+Lidgerwood	Kindred	47	55
+Lidgerwood	Havana	32	36
+Lidgerwood	Hankinson	13	15
+Lidgerwood	Gwinner	34	42
+Lidgerwood	Great Bend	25	29
+Lidgerwood	Forman	25	31
+Lidgerwood	Fairmount	27	31
+Lidgerwood	Colfax	47	47
+Lidgerwood	Cogswell	32	39
+Lidgerwood	Cayuga	11	16
+Lidgerwood	Barney	20	26
+Lidgerwood	Abercrombie	48	53
+Leonard	Kindred	14	19
+Leonard	Kathryn	41	49
+Leonard	Hunter	38	42
+Leonard	Horace	26	31
+Leonard	Harwood	39	43
+Leonard	Gardner	48	54
+Leonard	Fort Ransom	47	59
+Leonard	Fingal	38	45
+Leonard	Fargo	39	40
+Leonard	Erie	41	53
+Leonard	Enderlin	19	24
+Leonard	Davenport	22	29
+Leonard	Colfax	30	39
+Leonard	Christine	26	32
+Leonard	Chaffee	15	25
+Leonard	Casselton	18	20
+Leonard	Buffalo	36	36
+Leonard	Blanchard	49	53
+Leonard	Barney	39	44
+Leonard	Ayr	49	54
+Leonard	Arthur	32	35
+Leonard	Argusville	41	49
+Leonard	Amenia	26	29
+Leonard	Absaraka	32	44
+Leonard	Abercrombie	35	42
+Lemmon	Hettinger	25	29
+Lemmon	Elgin	46	48
+Lehr	Kulm	20	25
+Lehr	Jud	38	53
+Lehr	Hague	47	60
+Lehr	Gackle	35	45
+Lehr	Fredonia	14	19
+Lehr	Edgeley	34	37
+Lehr	Berlin	46	52
+Lehr	Ashley	18	32
+Lefor	Hebron	41	45
+Lefor	Gladstone	12	16
+Lefor	Dickinson	24	29
+Lefor	Belfield	44	46
+Leeds	Knox	12	14
+Leeds	Hamberg	45	60
+Leeds	Fort Totten	40	44
+Leeds	Esmond	35	44
+Leeds	Egeland	41	48
+Leeds	Devils Lake	30	29
+Leeds	Crary	44	45
+Leeds	Churchs Ferry	12	14
+Leeds	Cando	26	27
+Leeds	Brinsmade	12	24
+Leeds	Bisbee	44	48
+Leeds	Balta	42	44
+Leeds	Agate	49	54
+Lawton	Fort Totten	49	60
+Lawton	Lankin	36	44
+Lawton	Langdon	33	37
+Lawton	Lakota	18	21
+Lawton	Hampden	30	43
+Lawton	Fordville	48	55
+Lawton	Fairdale	20	32
+Lawton	Edmore	11	15
+Lawton	Edinburg	39	44
+Lawton	Devils Lake	36	43
+Lawton	Dahlen	30	56
+Lawton	Crary	34	38
+Lawton	Brocket	8	13
+Lawton	Alsen	39	48
+Lawton	Adams	23	28
+Larimore	Lankin	40	44
+Larimore	Lakota	38	37
+Larimore	Inkster	18	22
+Larimore	Hoople	44	49
+Larimore	Hatton	26	30
+Larimore	Grand Forks AFB	16	22
+Larimore	Grand Forks	30	35
+Larimore	Grafton	44	50
+Larimore	Gilby	19	26
+Larimore	Forest River	28	38
+Larimore	Fordville	33	37
+Larimore	Finley	36	46
+Larimore	Emerado	16	19
+Larimore	Dahlen	29	34
+Larimore	Clifford	49	60
+Larimore	Arvilla	6	11
+Larimore	Ardoch	38	46
+Larimore	Aneta	32	35
+Lansford	Kenmare	48	59
+Lansford	Glenburn	16	23
+Lansford	Donnybrook	37	53
+Lansford	Des Lacs	43	57
+Lansford	Deering	34	48
+Lansford	Colquhoun	36	60
+Lansford	Clay	12	30
+Lansford	Carpio	28	43
+Lansford	Burlington	33	42
+Lansford	Berthold	38	56
+Lansford	Antler	29	36
+Lankin	Lakota	39	47
+Lankin	Inkster	24	36
+Lankin	Hoople	30	38
+Lankin	Canton City	38	50
+Lankin	Grafton	30	38
+Lankin	Glasston	49	58
+Lankin	Gilby	37	52
+Lankin	Forest River	36	54
+Lankin	Fordville	12	19
+Lankin	Farmington	37	51
+Lankin	Fairdale	26	40
+Lankin	Edmore	31	37
+Lankin	Edinburg	15	19
+Lankin	Dahlen	10	24
+Lankin	Crystal	32	40
+Lankin	Cavalier	45	51
+Lankin	Brocket	43	53
+Lankin	Arvilla	44	47
+Lankin	Ardoch	33	56
+Lankin	Adams	18	24
+Langdon	Canton City	38	46
+Langdon	Hannah	30	38
+Langdon	Hampden	32	47
+Langdon	Hamilton	43	48
+Langdon	Fairdale	26	39
+Langdon	Egeland	43	53
+Langdon	Edmore	27	30
+Langdon	Edinburg	41	43
+Langdon	Crystal	43	48
+Langdon	Cavalier	34	36
+Langdon	Calvin	32	35
+Langdon	Brocket	40	46
+Langdon	Bathgate	47	54
+Langdon	Alsen	24	33
+Langdon	Adams	39	42
+LaMoure	Kulm	35	40
+LaMoure	Kathryn	38	44
+LaMoure	Jud	40	49
+LaMoure	Gwinner	41	43
+LaMoure	Fullerton	19	34
+LaMoure	Fredonia	43	49
+LaMoure	Fort Ransom	29	39
+LaMoure	Ellendale	45	46
+LaMoure	Edgeley	20	24
+LaMoure	Dickey	23	39
+LaMoure	Cogswell	44	50
+LaMoure	Berlin	11	17
+Lakota	Jessie	39	46
+Lakota	Hampden	48	60
+Lakota	Grand Forks AFB	48	49
+Lakota	Fort Totten	39	42
+Lakota	Fordville	40	42
+Lakota	Fairdale	38	51
+Lakota	Emerado	48	46
+Lakota	Edmore	29	34
+Lakota	Devils Lake	27	29
+Lakota	Dahlen	36	39
+Lakota	Crary	16	19
+Lakota	Churchs Ferry	46	48
+Lakota	Brocket	12	15
+Lakota	Binford	35	41
+Lakota	Arvilla	42	41
+Lakota	Aneta	39	43
+Lakota	Adams	40	47
+Kulm	Jud	19	35
+Kulm	Gackle	30	47
+Kulm	Fullerton	43	60
+Kulm	Fredonia	9	16
+Kulm	Forbes	33	48
+Kulm	Ellendale	41	45
+Kulm	Edgeley	15	20
+Kulm	Dickey	39	54
+Kulm	Berlin	27	34
+Kulm	Ashley	39	54
+Kramer	Granville	34	60
+Kramer	Dunseith	39	50
+Kramer	Deering	36	60
+Kramer	Bottineau	21	31
+Kramer	Bantry	16	28
+Knox	Hamberg	46	60
+Knox	Esmond	37	44
+Knox	Dunseith	47	52
+Knox	Devils Lake	42	39
+Knox	Churchs Ferry	24	25
+Knox	Cando	38	37
+Knox	Brinsmade	24	35
+Knox	Bantry	48	57
+Knox	Balta	29	33
+Kintyre	Hazelton	19	27
+Kintyre	Dawson	37	47
+Kintyre	Braddock	16	27
+Kindred	Hunter	48	55
+Kindred	Horace	12	17
+Kindred	Harwood	34	36
+Kindred	Great Bend	44	46
+Kindred	Gardner	48	48
+Kindred	Fingal	49	56
+Kindred	Fargo	29	34
+Kindred	Enderlin	30	35
+Kindred	Davenport	8	12
+Kindred	Colfax	23	29
+Kindred	Christine	15	21
+Kindred	Chaffee	29	42
+Kindred	Casselton	27	34
+Kindred	Buffalo	45	49
+Kindred	Barney	40	45
+Kindred	Arthur	42	48
+Kindred	Argusville	40	42
+Kindred	Amenia	35	43
+Kindred	Absaraka	41	57
+Kindred	Abercrombie	24	31
+Killdeer	Halliday	22	26
+Killdeer	Grassy Butte	26	28
+Killdeer	Golden Valley	37	42
+Killdeer	Gladstone	45	51
+Killdeer	Fairfield	32	33
+Killdeer	Dunn Center	8	12
+Killdeer	Dodge	29	32
+Killdeer	Dickinson	35	42
+Kief	Karlsruhe	19	33
+Kief	Harvey	36	44
+Kief	Granville	45	54
+Kief	Drake	14	22
+Kief	Denhoff	49	60
+Kief	Butte	9	18
+Kief	Benedict	30	50
+Kief	Balfour	7	15
+Kief	Anamoose	21	27
+Kensal	Jessie	44	60
+Kensal	Cooperstown	40	57
+Kensal	Binford	41	60
+Kensal	Jamestown	31	38
+Kensal	Hannaford	45	60
+Kensal	Grace City	22	47
+Kensal	Glenfield	30	35
+Kensal	Dazey	36	55
+Kensal	Courtenay	13	17
+Kensal	Cathay	46	56
+Kensal	Carrington	25	31
+Kensal	Buchanan	36	41
+Kenmare	Flaxton	29	33
+Kenmare	Donnybrook	16	20
+Kenmare	Des Lacs	45	59
+Kenmare	Columbus	46	50
+Kenmare	Colquhoun	37	1
+Kenmare	Clay	38	52
+Kenmare	Carpio	25	28
+Kenmare	Burlington	44	47
+Kenmare	Bowbells	16	20
+Kenmare	Berthold	35	42
+Keene	Arnegard	32	39
+Keene	Alexander	44	51
+Kathryn	Gwinner	47	56
+Kathryn	Fort Ransom	15	31
+Kathryn	Fingal	14	28
+Kathryn	Enderlin	22	30
+Kathryn	Eckelson	35	51
+Kathryn	Dickey	35	60
+Kathryn	Dazey	46	60
+Kathryn	Chaffee	44	60
+Kathryn	Buffalo	40	54
+Kathryn	Berlin	49	57
+Karlsruhe	Harvey	43	51
+Karlsruhe	Granville	42	53
+Karlsruhe	Drake	21	29
+Karlsruhe	Butte	28	45
+Karlsruhe	Benedict	43	60
+Karlsruhe	Bantry	42	60
+Karlsruhe	Balfour	12	20
+Karlsruhe	Anamoose	27	34
+Jud	Jamestown	35	46
+Jud	Gackle	19	32
+Jud	Fullerton	49	60
+Jud	Fredonia	26	44
+Jud	Ellendale	47	55
+Jud	Edgeley	21	33
+Jud	Dickey	21	40
+Jud	Buchanan	49	57
+Jud	Berlin	33	44
+Jessie	Hope	38	45
+Jessie	Hatton	46	60
+Jessie	Hannaford	23	32
+Jessie	Grace City	28	52
+Jessie	Glenfield	25	31
+Jessie	Finley	20	35
+Jessie	Dazey	32	42
+Jessie	Courtenay	42	45
+Jessie	Cooperstown	12	17
+Jessie	Binford	5	12
+Jessie	Aneta	21	28
+Jamestown	Glenfield	44	50
+Jamestown	Gackle	40	46
+Jamestown	Edgeley	39	44
+Jamestown	Eckelson	23	26
+Jamestown	Dickey	38	52
+Jamestown	Dazey	46	48
+Jamestown	Courtenay	28	32
+Jamestown	Cleveland	21	25
+Jamestown	Carrington	43	43
+Jamestown	Buchanan	12	15
+Inkster	Hoople	28	33
+Inkster	Canton City	40	46
+Inkster	Hatton	44	50
+Inkster	Grand Forks AFB	28	34
+Inkster	Grand Forks	43	47
+Inkster	Grafton	28	33
+Inkster	Glasston	47	54
+Inkster	Gilby	13	19
+Inkster	Forest River	12	21
+Inkster	Fordville	14	23
+Inkster	Farmington	36	46
+Inkster	Emerado	28	31
+Inkster	Edinburg	35	40
+Inkster	Dahlen	13	26
+Inkster	Crystal	34	39
+Inkster	Cavalier	45	49
+Inkster	Arvilla	22	26
+Inkster	Ardoch	22	29
+Inkster	Adams	39	46
+Hurdsfield	Harvey	23	27
+Hurdsfield	Hamberg	42	45
+Hurdsfield	Goodrich	11	15
+Hurdsfield	Fessenden	28	31
+Hurdsfield	Esmond	49	55
+Hurdsfield	Drake	46	48
+Hurdsfield	Denhoff	19	24
+Hurdsfield	Chaseley	5	8
+Hurdsfield	Cathay	31	38
+Hurdsfield	Carrington	38	41
+Hurdsfield	Bremen	46	58
+Hurdsfield	Bowdon	11	15
+Hurdsfield	Anamoose	39	40
+Hunter	Horace	46	50
+Hunter	Hope	33	46
+Hunter	Hillsboro	23	27
+Hunter	Hatton	41	46
+Hunter	Harwood	27	30
+Hunter	Grandin	21	25
+Hunter	Gardner	14	19
+Hunter	Galesburg	14	23
+Hunter	Fargo	37	41
+Hunter	Erie	13	20
+Hunter	Davenport	46	54
+Hunter	Cummings	31	36
+Hunter	Clifford	20	29
+Hunter	Chaffee	36	47
+Hunter	Casselton	20	23
+Hunter	Caledonia	35	50
+Hunter	Buxton	37	37
+Hunter	Buffalo	36	49
+Hunter	Blanchard	10	13
+Hunter	Ayr	23	37
+Hunter	Arthur	6	7
+Hunter	Argusville	21	26
+Hunter	Amenia	13	16
+Hunter	Absaraka	23	40
+Horace	Harwood	21	23
+Horace	Great Bend	46	45
+Horace	Grandin	40	39
+Horace	Gardner	34	34
+Horace	Fargo	15	20
+Horace	Erie	46	60
+Horace	Enderlin	42	47
+Horace	Davenport	11	16
+Horace	Colfax	25	28
+Horace	Christine	17	20
+Horace	Chaffee	35	43
+Horace	Casselton	23	28
+Horace	Buffalo	41	43
+Horace	Barney	46	47
+Horace	Arthur	37	42
+Horace	Argusville	26	28
+Horace	Amenia	31	37
+Horace	Absaraka	37	51
+Horace	Abercrombie	26	30
+Hope	Hillsboro	39	60
+Hope	Hatton	43	46
+Hope	Hannaford	37	39
+Hope	Grandin	43	60
+Hope	Glenfield	47	48
+Hope	Gardner	43	60
+Hope	Galesburg	18	32
+Hope	Finley	17	19
+Hope	Fingal	42	49
+Hope	Erie	25	35
+Hope	Dazey	34	41
+Hope	Cooperstown	26	27
+Hope	Clifford	17	31
+Hope	Buffalo	30	32
+Hope	Blanchard	27	50
+Hope	Binford	44	47
+Hope	Ayr	25	31
+Hope	Arthur	34	49
+Hope	Aneta	35	41
+Hope	Amenia	41	57
+Hope	Absaraka	34	49
+Hoople	Canton City	13	18
+Hoople	Hamilton	27	32
+Hoople	Grafton	18	22
+Hoople	Glasston	20	25
+Hoople	Gilby	39	46
+Hoople	Forest River	38	48
+Hoople	Fordville	30	41
+Hoople	Farmington	21	29
+Hoople	Fairdale	43	59
+Hoople	Edmore	48	56
+Hoople	Edinburg	14	23
+Hoople	Drayton	27	33
+Hoople	Dahlen	41	50
+Hoople	Crystal	7	10
+Hoople	Cavalier	18	21
+Hoople	Bathgate	30	38
+Hoople	Arvilla	48	53
+Hoople	Ardoch	34	40
+Hoople	Adams	31	38
+Hillsboro	Hatton	33	38
+Hillsboro	Harwood	32	30
+Hillsboro	Grandin	13	14
+Hillsboro	Grand Forks	40	39
+Hillsboro	Gardner	19	20
+Hillsboro	Galesburg	27	39
+Hillsboro	Finley	43	49
+Hillsboro	Fargo	42	41
+Hillsboro	Erie	36	47
+Hillsboro	Cummings	8	14
+Hillsboro	Clifford	21	32
+Hillsboro	Casselton	44	50
+Hillsboro	Caledonia	12	23
+Hillsboro	Buxton	15	16
+Hillsboro	Blanchard	13	18
+Hillsboro	Ayr	47	60
+Hillsboro	Arthur	29	33
+Hillsboro	Argusville	26	26
+Hillsboro	Amenia	36	43
+Hillsboro	Absaraka	46	60
+Hettinger	Bowman	40	42
+Hebron	Glen Ullin	12	19
+Hebron	Gladstone	29	32
+Hebron	Elgin	43	48
+Hebron	Dickinson	38	40
+Hebron	Beulah	41	44
+Hebron	Almont	35	41
+Hazen	Halliday	37	42
+Hazen	Golden Valley	21	27
+Hazen	Glen Ullin	44	52
+Hazen	Dunn Center	49	54
+Hazen	Dodge	28	32
+Hazen	Coleharbor	38	46
+Hazen	Center	26	31
+Hazen	Beulah	9	17
+Hazelton	Hague	38	42
+Hazelton	Driscoll	32	34
+Hazelton	Braddock	14	21
+Hazelton	Bismarck	49	49
+Havana	Hankinson	45	52
+Havana	Gwinner	21	26
+Havana	Forman	11	15
+Havana	Cogswell	18	23
+Havana	Cayuga	21	26
+Hatton	Grandin	45	49
+Hatton	Grand Forks AFB	27	38
+Hatton	Grand Forks	39	44
+Hatton	Gilby	33	49
+Hatton	Galesburg	28	44
+Hatton	Forest River	42	60
+Hatton	Finley	25	27
+Hatton	Erie	40	60
+Hatton	Emerado	23	29
+Hatton	Cummings	28	36
+Hatton	Cooperstown	44	48
+Hatton	Clifford	23	34
+Hatton	Caledonia	39	54
+Hatton	Buxton	34	39
+Hatton	Blanchard	30	37
+Hatton	Arvilla	21	30
+Hatton	Arthur	47	52
+Hatton	Aneta	36	39
+Harwood	Grandin	20	21
+Harwood	Gardner	14	16
+Harwood	Galesburg	41	52
+Harwood	Fargo	10	14
+Harwood	Erie	35	43
+Harwood	Davenport	30	35
+Harwood	Cummings	41	40
+Harwood	Colfax	38	38
+Harwood	Clifford	45	50
+Harwood	Christine	30	30
+Harwood	Chaffee	42	47
+Harwood	Casselton	22	31
+Harwood	Caledonia	45	53
+Harwood	Buxton	46	41
+Harwood	Buffalo	48	47
+Harwood	Blanchard	36	36
+Harwood	Ayr	33	49
+Harwood	Arthur	23	27
+Harwood	Argusville	5	9
+Harwood	Amenia	22	29
+Harwood	Absaraka	32	52
+Harwood	Abercrombie	39	40
+Harvey	Hamberg	31	35
+Harvey	Grandfield	46	60
+Harvey	Goodrich	34	39
+Harvey	Fessenden	17	21
+Harvey	Esmond	26	32
+Harvey	Drake	23	27
+Harvey	Denhoff	42	48
+Harvey	Chaseley	28	32
+Harvey	Cathay	34	42
+Harvey	Butte	45	56
+Harvey	Bremen	36	49
+Harvey	Bowdon	35	38
+Harvey	Balta	30	37
+Harvey	Balfour	31	33
+Harvey	Anamoose	16	20
+Hansboro	Egeland	32	42
+Hansboro	Dunseith	39	47
+Hansboro	Cando	37	42
+Hansboro	Calvin	33	40
+Hansboro	Bisbee	31	37
+Hansboro	Belcourt	23	29
+Hansboro	Agate	37	43
+Hannah	Calvin	20	45
+Hannah	Alsen	45	57
+Hannaford	Grace City	46	54
+Hannaford	Glenfield	27	29
+Hannaford	Finley	30	32
+Hannaford	Eckelson	33	40
+Hannaford	Dazey	9	12
+Hannaford	Courtenay	44	43
+Hannaford	Cooperstown	12	14
+Hannaford	Binford	24	29
+Hannaford	Aneta	35	41
+Hankinson	Gwinner	47	57
+Hankinson	Great Bend	12	17
+Hankinson	Forman	38	46
+Hankinson	Fairmount	15	18
+Hankinson	Colfax	34	34
+Hankinson	Cogswell	45	54
+Hankinson	Christine	41	40
+Hankinson	Cayuga	24	30
+Hankinson	Barney	26	28
+Hankinson	Abercrombie	36	41
+Hampden	Fairdale	34	53
+Hampden	Egeland	27	47
+Hampden	Edmore	18	27
+Hampden	Devils Lake	40	57
+Hampden	Crary	34	60
+Hampden	Churchs Ferry	44	60
+Hampden	Cando	29	50
+Hampden	Calvin	34	47
+Hampden	Brocket	38	53
+Hampden	Bisbee	40	60
+Hampden	Alsen	9	17
+Hampden	Agate	45	60
+Hampden	Adams	36	49
+Hamilton	Canton City	18	23
+Hamilton	Grafton	28	33
+Hamilton	Glasston	7	11
+Hamilton	Forest River	45	60
+Hamilton	Farmington	23	32
+Hamilton	Edinburg	38	42
+Hamilton	Drayton	27	30
+Hamilton	Crystal	24	29
+Hamilton	Cavalier	8	11
+Hamilton	Bathgate	6	17
+Hamilton	Ardoch	44	51
+Hamberg	Grandfield	17	44
+Hamberg	Fessenden	14	19
+Hamberg	Esmond	34	48
+Hamberg	Chaseley	37	39
+Hamberg	Cathay	19	27
+Hamberg	Carrington	40	45
+Hamberg	Brinsmade	44	60
+Hamberg	Bremen	7	18
+Hamberg	Bowdon	31	36
+Hamberg	Anamoose	47	50
+Halliday	Grassy Butte	46	48
+Halliday	Golden Valley	16	22
+Halliday	Gladstone	46	53
+Halliday	Dunn Center	14	18
+Halliday	Dodge	9	12
+Halliday	Beulah	32	38
+Hague	Ashley	31	44
+Gwinner	Fullerton	44	59
+Gwinner	Fort Ransom	34	45
+Gwinner	Forman	9	12
+Gwinner	Fingal	44	52
+Gwinner	Enderlin	32	39
+Gwinner	Cogswell	13	23
+Gwinner	Cayuga	23	29
+Gwinner	Barney	33	34
+Grenora	Fortuna	46	50
+Grenora	Epping	48	53
+Grenora	Ambrose	48	54
+Grenora	Alamo	22	26
+Great Bend	Fairmount	19	22
+Great Bend	Colfax	25	28
+Great Bend	Christine	32	33
+Great Bend	Cayuga	36	44
+Great Bend	Barney	17	21
+Great Bend	Abercrombie	27	34
+Grassy Butte	Fairfield	16	16
+Grassy Butte	Dunn Center	32	35
+Grassy Butte	Belfield	38	41
+Grassy Butte	Arnegard	36	41
+Grassy Butte	Alexander	48	53
+Granville	Glenburn	46	54
+Granville	Drake	47	52
+Granville	Des Lacs	37	47
+Granville	Deering	22	27
+Granville	Butte	46	60
+Granville	Burlington	31	35
+Granville	Berthold	46	48
+Granville	Benedict	40	57
+Granville	Bantry	38	46
+Granville	Balfour	38	44
+Grandin	Gardner	7	10
+Grandin	Galesburg	31	41
+Grandin	Fargo	29	31
+Grandin	Erie	28	39
+Grandin	Davenport	49	52
+Grandin	Cummings	21	25
+Grandin	Clifford	26	35
+Grandin	Christine	49	46
+Grandin	Casselton	36	42
+Grandin	Caledonia	26	38
+Grandin	Buxton	27	26
+Grandin	Blanchard	17	21
+Grandin	Ayr	39	56
+Grandin	Arthur	21	26
+Grandin	Argusville	14	16
+Grandin	Amenia	28	35
+Grandin	Absaraka	38	59
+Grandfield	Grace City	38	60
+Grandfield	Fort Totten	24	40
+Grandfield	Fessenden	29	56
+Grandfield	Devils Lake	36	53
+Grandfield	Crary	49	60
+Grandfield	Churchs Ferry	48	60
+Grandfield	Cathay	37	57
+Grandfield	Carrington	30	47
+Grandfield	Brinsmade	38	58
+Grandfield	Bremen	10	27
+Grandfield	Bowdon	46	60
+Grand Forks AFB	Grand Forks	18	27
+Grand Forks AFB	Grafton	45	59
+Grand Forks AFB	Gilby	12	27
+Grand Forks AFB	Forest River	21	43
+Grand Forks AFB	Fordville	44	49
+Grand Forks AFB	Emerado	4	11
+Grand Forks AFB	Dahlen	40	46
+Grand Forks AFB	Cummings	46	51
+Grand Forks AFB	Buxton	40	44
+Grand Forks AFB	Arvilla	7	13
+Grand Forks AFB	Ardoch	29	42
+Grand Forks AFB	Aneta	48	56
+Grand Forks	Grafton	41	47
+Grand Forks	Gilby	27	38
+Grand Forks	Forest River	31	47
+Grand Forks	Farmington	48	60
+Grand Forks	Emerado	16	23
+Grand Forks	Drayton	48	48
+Grand Forks	Cummings	32	36
+Grand Forks	Caledonia	45	54
+Grand Forks	Buxton	26	29
+Grand Forks	Arvilla	22	26
+Grand Forks	Ardoch	25	30
+Grafton	Canton City	29	34
+Grafton	Glasston	20	25
+Grafton	Gilby	34	45
+Grafton	Forest River	16	33
+Grafton	Fordville	30	41
+Grafton	Farmington	7	15
+Grafton	Fairdale	43	59
+Grafton	Edmore	48	56
+Grafton	Edinburg	28	32
+Grafton	Drayton	21	23
+Grafton	Dahlen	42	50
+Grafton	Crystal	23	28
+Grafton	Cavalier	34	38
+Grafton	Bathgate	41	49
+Grafton	Arvilla	49	54
+Grafton	Ardoch	15	18
+Grafton	Adams	32	39
+Grace City	Glenfield	19	28
+Grace City	Courtenay	36	43
+Grace City	Cooperstown	40	48
+Grace City	Cathay	42	56
+Grace City	Carrington	22	33
+Grace City	Bremen	40	60
+Grace City	Bowdon	49	58
+Grace City	Binford	23	45
+Goodrich	Fessenden	39	43
+Goodrich	Drake	42	47
+Goodrich	Denhoff	8	13
+Goodrich	Chaseley	17	20
+Goodrich	Cathay	42	50
+Goodrich	Carrington	49	53
+Goodrich	Bowdon	23	26
+Goodrich	Balfour	49	54
+Goodrich	Anamoose	35	39
+Golva	Beach	13	18
+Golden Valley	Dunn Center	29	33
+Golden Valley	Dodge	7	11
+Golden Valley	Center	47	53
+Golden Valley	Beulah	16	22
+Glenfield	Finley	39	42
+Glenfield	Dazey	36	41
+Glenfield	Courtenay	16	18
+Glenfield	Cooperstown	21	24
+Glenfield	Cathay	46	54
+Glenfield	Carrington	26	31
+Glenfield	Buchanan	40	57
+Glenfield	Binford	22	26
+Glenfield	Aneta	44	51
+Glenburn	Donnybrook	43	59
+Glenburn	Des Lacs	36	50
+Glenburn	Deering	15	38
+Glenburn	Clay	27	48
+Glenburn	Carpio	34	49
+Glenburn	Burlington	26	35
+Glenburn	Berthold	45	50
+Glenburn	Bantry	36	60
+Glenburn	Antler	37	45
+Glen Ullin	Gladstone	38	39
+Glen Ullin	Elgin	32	36
+Glen Ullin	Dickinson	48	48
+Glen Ullin	Center	46	49
+Glen Ullin	Carson	46	53
+Glen Ullin	Beulah	33	37
+Glen Ullin	Almont	28	35
+Glasston	Canton City	11	22
+Glasston	Forest River	37	56
+Glasston	Fordville	49	60
+Glasston	Farmington	16	22
+Glasston	Edinburg	33	37
+Glasston	Drayton	21	27
+Glasston	Crystal	17	21
+Glasston	Cavalier	15	18
+Glasston	Bathgate	20	26
+Glasston	Ardoch	36	41
+Gladstone	Dodge	49	53
+Gladstone	Dickinson	12	15
+Gladstone	Belfield	32	32
+Gilby	Forest River	9	18
+Gilby	Fordville	25	36
+Gilby	Farmington	42	57
+Gilby	Emerado	16	23
+Gilby	Edinburg	47	53
+Gilby	Drayton	49	52
+Gilby	Dahlen	27	45
+Gilby	Crystal	46	52
+Gilby	Buxton	49	55
+Gilby	Arvilla	12	18
+Gilby	Ardoch	19	26
+Garrison	Douglas	31	38
+Garrison	Coleharbor	14	17
+Garrison	Butte	48	60
+Garrison	Benedict	28	38
+Gardner	Galesburg	29	41
+Gardner	Fargo	23	25
+Gardner	Erie	22	32
+Gardner	Davenport	43	46
+Gardner	Cummings	28	30
+Gardner	Clifford	32	40
+Gardner	Christine	43	40
+Gardner	Casselton	29	35
+Gardner	Caledonia	32	43
+Gardner	Buxton	33	31
+Gardner	Buffalo	45	60
+Gardner	Blanchard	23	26
+Gardner	Ayr	32	49
+Gardner	Arthur	15	19
+Gardner	Argusville	8	10
+Gardner	Amenia	22	28
+Gardner	Absaraka	32	52
+Galesburg	Finley	35	51
+Galesburg	Erie	11	22
+Galesburg	Cummings	35	47
+Galesburg	Cooperstown	44	59
+Galesburg	Clifford	5	11
+Galesburg	Casselton	34	45
+Galesburg	Caledonia	39	60
+Galesburg	Buxton	41	48
+Galesburg	Buffalo	32	46
+Galesburg	Blanchard	14	23
+Galesburg	Ayr	22	41
+Galesburg	Arthur	20	29
+Galesburg	Argusville	36	48
+Galesburg	Amenia	27	38
+Galesburg	Absaraka	21	44
+Gackle	Fredonia	21	34
+Gackle	Edgeley	40	46
+Gackle	Dickey	39	54
+Gackle	Dawson	47	53
+Gackle	Cleveland	19	39
+Fullerton	Fort Ransom	48	60
+Fullerton	Forman	42	59
+Fullerton	Forbes	35	52
+Fullerton	Ellendale	16	28
+Fullerton	Edgeley	28	42
+Fullerton	Dickey	31	57
+Fullerton	Cogswell	35	52
+Fullerton	Berlin	19	35
+Fredonia	Forbes	42	59
+Fredonia	Ellendale	49	52
+Fredonia	Edgeley	23	27
+Fredonia	Dickey	47	60
+Fredonia	Cleveland	40	60
+Fredonia	Berlin	35	41
+Fredonia	Ashley	32	47
+Fortuna	Crosby	22	27
+Fortuna	Columbus	46	50
+Fortuna	Ambrose	16	22
+Fortuna	Alamo	38	43
+Fort Yates	Cannon Ball	25	34
+Fort Totten	Esmond	42	46
+Fort Totten	Devils Lake	13	19
+Fort Totten	Crary	25	33
+Fort Totten	Churchs Ferry	32	39
+Fort Totten	Carrington	44	49
+Fort Totten	Cando	47	52
+Fort Totten	Brinsmade	28	39
+Fort Totten	Bremen	36	60
+Fort Ransom	Forman	43	55
+Fort Ransom	Fingal	28	43
+Fort Ransom	Enderlin	28	43
+Fort Ransom	Edgeley	49	59
+Fort Ransom	Dickey	41	60
+Fort Ransom	Berlin	40	52
+Forman	Enderlin	41	49
+Forman	Cogswell	7	12
+Forman	Cayuga	14	20
+Forman	Barney	40	41
+Forest River	Fordville	24	38
+Forest River	Farmington	24	45
+Forest River	Emerado	25	40
+Forest River	Edinburg	46	56
+Forest River	Drayton	40	51
+Forest River	Dahlen	26	47
+Forest River	Crystal	45	55
+Forest River	Arvilla	21	35
+Forest River	Ardoch	6	17
+Fordville	Canton City	42	54
+Fordville	Farmington	38	53
+Fordville	Fairdale	38	51
+Fordville	Emerado	44	45
+Fordville	Edmore	43	49
+Fordville	Edinburg	22	25
+Fordville	Dahlen	11	18
+Fordville	Crystal	39	45
+Fordville	Cavalier	47	56
+Fordville	Arvilla	38	40
+Fordville	Ardoch	34	46
+Fordville	Aneta	46	54
+Fordville	Adams	26	31
+Forbes	Ellendale	19	23
+Forbes	Edgeley	32	49
+Forbes	Berlin	44	60
+Forbes	Ashley	34	41
+Flaxton	Donnybrook	45	47
+Flaxton	Crosby	42	48
+Flaxton	Columbus	18	23
+Flaxton	Colquhoun	41	60
+Flaxton	Bowbells	14	17
+Flasher	Elgin	31	40
+Flasher	Carson	17	23
+Flasher	Cannon Ball	40	49
+Flasher	Bismarck	46	55
+Flasher	Almont	30	60
+Finley	Erie	42	54
+Finley	Emerado	49	56
+Finley	Dazey	39	44
+Finley	Cummings	38	46
+Finley	Cooperstown	19	22
+Finley	Clifford	33	44
+Finley	Caledonia	49	60
+Finley	Buxton	44	49
+Finley	Buffalo	47	50
+Finley	Blanchard	41	48
+Finley	Binford	37	42
+Finley	Ayr	42	49
+Finley	Arvilla	47	57
+Finley	Aneta	18	23
+Fingal	Erie	49	60
+Fingal	Amenia	49	54
+Fingal	Enderlin	19	26
+Fingal	Eckelson	41	45
+Fingal	Dickey	48	60
+Fingal	Chaffee	41	51
+Fingal	Casselton	42	46
+Fingal	Buffalo	27	34
+Fingal	Ayr	41	51
+Fingal	Absaraka	39	55
+Fessenden	Esmond	44	50
+Fessenden	Drake	41	43
+Fessenden	Denhoff	47	49
+Fessenden	Chaseley	23	25
+Fessenden	Cathay	16	23
+Fessenden	Carrington	37	40
+Fessenden	Bremen	18	30
+Fessenden	Bowdon	18	22
+Fessenden	Balta	48	55
+Fessenden	Balfour	48	49
+Fessenden	Anamoose	34	35
+Farmington	Canton City	24	33
+Farmington	Edinburg	34	41
+Farmington	Drayton	18	27
+Farmington	Dahlen	49	60
+Farmington	Crystal	18	25
+Farmington	Cavalier	29	34
+Farmington	Bathgate	36	46
+Farmington	Ardoch	23	32
+Farmington	Adams	39	52
+Fargo	Erie	44	55
+Fargo	Davenport	25	33
+Fargo	Colfax	33	35
+Fargo	Christine	24	27
+Fargo	Chaffee	36	44
+Fargo	Casselton	24	29
+Fargo	Caledonia	46	58
+Fargo	Buffalo	42	44
+Fargo	Blanchard	46	48
+Fargo	Ayr	42	60
+Fargo	Arthur	32	39
+Fargo	Argusville	16	22
+Fargo	Amenia	32	38
+Fargo	Absaraka	38	52
+Fargo	Abercrombie	34	37
+Fairmount	Colfax	42	43
+Fairmount	Christine	48	48
+Fairmount	Cayuga	39	46
+Fairmount	Barney	34	37
+Fairmount	Abercrombie	32	40
+Fairfield	Dunn Center	38	40
+Fairfield	Dickinson	40	39
+Fairfield	Belfield	22	24
+Fairdale	Edmore	15	26
+Fairdale	Edinburg	29	39
+Fairdale	Dahlen	43	57
+Fairdale	Crystal	45	59
+Fairdale	Brocket	28	42
+Fairdale	Alsen	33	51
+Fairdale	Adams	12	23
+Esmond	Drake	40	53
+Esmond	Devils Lake	48	51
+Esmond	Churchs Ferry	45	49
+Esmond	Brinsmade	35	45
+Esmond	Bremen	41	60
+Esmond	Balta	22	27
+Esmond	Balfour	47	59
+Esmond	Anamoose	32	42
+Erie	Enderlin	45	60
+Erie	Davenport	48	60
+Erie	Cummings	45	58
+Erie	Clifford	17	32
+Erie	Chaffee	25	57
+Erie	Casselton	23	35
+Erie	Caledonia	49	60
+Erie	Buffalo	23	34
+Erie	Blanchard	24	34
+Erie	Ayr	10	19
+Erie	Arthur	13	23
+Erie	Argusville	26	42
+Erie	Amenia	15	28
+Erie	Absaraka	9	22
+Epping	Crosby	46	59
+Epping	Alexander	47	58
+Epping	Alamo	27	36
+Enderlin	Dickey	49	60
+Enderlin	Davenport	38	45
+Enderlin	Colfax	46	55
+Enderlin	Cogswell	49	58
+Enderlin	Christine	42	49
+Enderlin	Chaffee	22	47
+Enderlin	Casselton	37	42
+Enderlin	Buffalo	23	41
+Enderlin	Ayr	37	59
+Enderlin	Amenia	45	51
+Enderlin	Absaraka	34	60
+Emerado	Dahlen	40	42
+Emerado	Cummings	44	47
+Emerado	Clifford	46	60
+Emerado	Buxton	38	40
+Emerado	Arvilla	7	9
+Emerado	Ardoch	37	38
+Emerado	Aneta	45	50
+Ellendale	Edgeley	26	29
+Ellendale	Dickey	49	60
+Ellendale	Cogswell	43	48
+Ellendale	Berlin	37	41
+Ellendale	Ashley	42	48
+Elgin	Carson	14	22
+Egeland	Edmore	48	60
+Egeland	Churchs Ferry	31	38
+Egeland	Cando	15	21
+Egeland	Calvin	31	42
+Egeland	Brinsmade	43	60
+Egeland	Bisbee	13	22
+Egeland	Belcourt	43	51
+Egeland	Alsen	18	32
+Egeland	Agate	19	28
+Edmore	Edinburg	34	37
+Edmore	Devils Lake	40	50
+Edmore	Dahlen	48	55
+Edmore	Crary	45	50
+Edmore	Cando	39	50
+Edmore	Brocket	19	26
+Edmore	Alsen	34	42
+Edmore	Adams	17	21
+Edinburg	Canton City	22	30
+Edinburg	Drayton	40	47
+Edinburg	Dahlen	27	31
+Edinburg	Crystal	16	20
+Edinburg	Cavalier	29	31
+Edinburg	Brocket	46	54
+Edinburg	Bathgate	42	49
+Edinburg	Ardoch	43	49
+Edinburg	Alsen	47	54
+Edinburg	Adams	17	20
+Edgeley	Dickey	24	38
+Edgeley	Berlin	12	17
+Eckelson	Dazey	24	33
+Eckelson	Courtenay	43	51
+Eckelson	Cooperstown	44	53
+Eckelson	Cleveland	41	41
+Eckelson	Buffalo	44	44
+Eckelson	Buchanan	37	39
+Dunseith	Bottineau	18	21
+Dunseith	Bisbee	42	51
+Dunseith	Belcourt	15	18
+Dunseith	Balta	47	54
+Dunseith	Agate	37	46
+Dunn Center	Dodge	21	23
+Dunn Center	Dickinson	40	47
+Dunn Center	Beulah	44	49
+Driscoll	Dawson	20	24
+Driscoll	Braddock	45	51
+Driscoll	Bismarck	33	34
+Driscoll	Baldwin	47	48
+Drayton	Canton City	30	37
+Drayton	Crystal	24	30
+Drayton	Cavalier	35	37
+Drayton	Bathgate	32	39
+Drayton	Ardoch	34	35
+Drake	Denhoff	36	43
+Drake	Butte	22	34
+Drake	Benedict	47	59
+Drake	Bantry	49	60
+Drake	Balta	43	58
+Drake	Balfour	8	12
+Drake	Anamoose	7	10
+Douglas	Des Lacs	47	60
+Douglas	Coleharbor	33	37
+Douglas	Butte	43	60
+Douglas	Burlington	41	49
+Douglas	Benedict	23	36
+Donnybrook	Des Lacs	29	41
+Donnybrook	Deering	43	60
+Donnybrook	Clay	34	50
+Donnybrook	Carpio	9	10
+Donnybrook	Burlington	27	29
+Donnybrook	Bowbells	32	34
+Donnybrook	Berthold	18	24
+Dodge	Beulah	23	28
+Dickinson	Belfield	20	23
+Dickinson	Amidon	49	52
+Dickey	Berlin	12	25
+Devils Lake	Crary	14	18
+Devils Lake	Churchs Ferry	19	23
+Devils Lake	Cando	34	36
+Devils Lake	Brocket	39	41
+Devils Lake	Brinsmade	27	38
+Devils Lake	Bremen	49	60
+Devils Lake	Alsen	43	54
+Des Lacs	Deering	37	53
+Des Lacs	Clay	45	60
+Des Lacs	Carpio	22	31
+Des Lacs	Burlington	7	18
+Des Lacs	Berthold	11	22
+Denhoff	Chaseley	24	29
+Denhoff	Bowdon	30	36
+Denhoff	Balfour	43	49
+Denhoff	Anamoose	29	35
+Deering	Clay	45	60
+Deering	Carpio	34	55
+Deering	Burlington	31	39
+Deering	Berthold	46	51
+Dazey	Courtenay	22	38
+Dazey	Cooperstown	20	24
+Dazey	Binford	33	39
+Dazey	Aneta	44	51
+Dawson	Cleveland	31	30
+Dawson	Braddock	47	60
+Davenport	Colfax	31	39
+Davenport	Christine	22	31
+Davenport	Chaffee	19	44
+Davenport	Casselton	25	33
+Davenport	Buffalo	43	48
+Davenport	Barney	48	56
+Davenport	Arthur	40	47
+Davenport	Argusville	36	42
+Davenport	Amenia	33	42
+Davenport	Absaraka	39	56
+Davenport	Abercrombie	32	41
+Dahlen	Canton City	49	60
+Dahlen	Crystal	44	51
+Dahlen	Brocket	24	52
+Dahlen	Arvilla	34	37
+Dahlen	Ardoch	36	55
+Dahlen	Aneta	41	51
+Dahlen	Adams	31	37
+Cummings	Clifford	27	42
+Cummings	Caledonia	13	25
+Cummings	Buxton	8	14
+Cummings	Blanchard	21	27
+Cummings	Arvilla	49	51
+Cummings	Arthur	37	41
+Cummings	Argusville	35	34
+Cummings	Amenia	45	51
+Crystal	Canton City	10	15
+Crystal	Cavalier	15	18
+Crystal	Bathgate	28	35
+Crystal	Ardoch	39	45
+Crystal	Alsen	49	58
+Crystal	Adams	33	39
+Crosby	Columbus	25	30
+Crosby	Ambrose	12	21
+Crosby	Alamo	31	39
+Crary	Churchs Ferry	33	38
+Crary	Cando	48	52
+Crary	Brocket	28	32
+Crary	Brinsmade	41	53
+Courtenay	Cooperstown	38	39
+Courtenay	Cleveland	49	58
+Courtenay	Carrington	37	43
+Courtenay	Buchanan	23	39
+Courtenay	Binford	39	42
+Cooperstown	Clifford	43	59
+Cooperstown	Carrington	48	52
+Cooperstown	Binford	18	24
+Cooperstown	Aneta	23	27
+Columbus	Bowbells	31	34
+Columbus	Ambrose	36	44
+Colquhoun	Clay	27	54
+Colquhoun	Carpio	42	58
+Colquhoun	Bowbells	41	60
+Colquhoun	Antler	20	46
+Colfax	Christine	10	15
+Colfax	Chaffee	49	60
+Colfax	Casselton	48	47
+Colfax	Barney	25	29
+Colfax	Argusville	44	43
+Colfax	Abercrombie	8	18
+Coleharbor	Center	43	44
+Coleharbor	Beulah	47	53
+Coleharbor	Benedict	31	39
+Coleharbor	Baldwin	47	45
+Cogswell	Cayuga	21	27
+Cogswell	Barney	47	51
+Clifford	Casselton	41	51
+Clifford	Caledonia	34	55
+Clifford	Buxton	35	42
+Clifford	Buffalo	38	55
+Clifford	Blanchard	10	20
+Clifford	Ayr	27	51
+Clifford	Arvilla	44	60
+Clifford	Arthur	26	35
+Clifford	Argusville	39	47
+Clifford	Amenia	33	44
+Clifford	Absaraka	27	53
+Cleveland	Buchanan	31	32
+Clay	Carpio	25	41
+Clay	Burlington	43	60
+Clay	Bowbells	42	52
+Clay	Berthold	34	55
+Clay	Antler	31	45
+Churchs Ferry	Cando	15	18
+Churchs Ferry	Brinsmade	13	27
+Churchs Ferry	Bisbee	33	39
+Churchs Ferry	Alsen	48	60
+Churchs Ferry	Agate	39	45
+Christine	Chaffee	41	53
+Christine	Casselton	40	40
+Christine	Barney	31	33
+Christine	Argusville	36	36
+Christine	Amenia	48	49
+Christine	Abercrombie	10	14
+Chaseley	Cathay	26	32
+Chaseley	Carrington	33	35
+Chaseley	Bremen	41	53
+Chaseley	Bowdon	7	9
+Chaseley	Anamoose	45	48
+Chaffee	Casselton	15	25
+Chaffee	Buffalo	20	30
+Chaffee	Blanchard	46	58
+Chaffee	Ayr	34	47
+Chaffee	Arthur	30	39
+Chaffee	Argusville	38	53
+Chaffee	Amenia	23	34
+Chaffee	Absaraka	16	37
+Center	Bismarck	40	42
+Center	Beulah	35	42
+Center	Almont	37	46
+Cayuga	Barney	31	37
+Cavalier	Canton City	9	12
+Cavalier	Bathgate	12	17
+Cavalier	Adams	47	52
+Cathay	Carrington	20	28
+Cathay	Bremen	23	40
+Cathay	Bowdon	21	28
+Casselton	Buffalo	21	24
+Casselton	Blanchard	31	35
+Casselton	Ayr	24	38
+Casselton	Arthur	14	16
+Casselton	Argusville	24	32
+Casselton	Amenia	8	11
+Casselton	Absaraka	17	32
+Casselton	Abercrombie	49	49
+Cartwright	Arnegard	27	32
+Cartwright	Alexander	15	18
+Carson	Almont	23	60
+Carrington	Buchanan	30	34
+Carrington	Bremen	32	55
+Carrington	Bowdon	28	31
+Carrington	Binford	49	54
+Carpio	Burlington	18	20
+Carpio	Bowbells	41	42
+Carpio	Berthold	10	14
+Canton City	Bathgate	21	29
+Canton City	Ardoch	45	52
+Canton City	Adams	39	50
+Cannon Ball	Bismarck	45	53
+Cando	Calvin	42	48
+Cando	Brinsmade	27	41
+Cando	Bisbee	18	22
+Cando	Belcourt	48	51
+Cando	Alsen	32	46
+Cando	Agate	23	28
+Calvin	Bisbee	36	43
+Calvin	Belcourt	44	49
+Calvin	Alsen	25	32
+Calvin	Agate	42	49
+Caledonia	Buxton	21	32
+Caledonia	Blanchard	25	40
+Caledonia	Arthur	41	55
+Caledonia	Argusville	39	48
+Caledonia	Amenia	49	60
+Buxton	Blanchard	27	30
+Buxton	Arvilla	43	41
+Buxton	Arthur	43	44
+Buxton	Argusville	40	37
+Buxton	Ardoch	47	44
+Butte	Benedict	21	36
+Butte	Balfour	15	26
+Butte	Anamoose	29	38
+Burlington	Berthold	15	18
+Burlington	Benedict	46	54
+Burlington	Balfour	49	53
+Buffalo	Blanchard	47	60
+Buffalo	Ayr	14	21
+Buffalo	Arthur	35	37
+Buffalo	Argusville	44	51
+Buffalo	Amenia	29	32
+Buffalo	Absaraka	17	32
+Brocket	Binford	48	55
+Brocket	Alsen	46	59
+Brocket	Adams	30	39
+Brinsmade	Bisbee	45	60
+Bremen	Bowdon	36	48
+Bowman	Amidon	23	24
+Bottineau	Belcourt	33	36
+Bottineau	Bantry	37	55
+Blanchard	Ayr	34	49
+Blanchard	Arthur	16	19
+Blanchard	Argusville	31	32
+Blanchard	Amenia	23	29
+Blanchard	Absaraka	33	52
+Bismarck	Baldwin	17	23
+Bismarck	Almont	45	48
+Bisbee	Belcourt	33	45
+Bisbee	Alsen	31	50
+Bisbee	Agate	6	11
+Binford	Aneta	26	37
+Benedict	Balfour	39	50
+Belfield	Beach	42	41
+Belfield	Amidon	34	34
+Belcourt	Agate	28	42
+Barney	Abercrombie	26	34
+Bantry	Balta	48	60
+Balta	Anamoose	36	48
+Balfour	Anamoose	15	16
+Ayr	Arthur	17	30
+Ayr	Argusville	27	45
+Ayr	Amenia	17	31
+Ayr	Absaraka	8	21
+Arvilla	Ardoch	42	42
+Arvilla	Aneta	38	43
+Arthur	Argusville	17	24
+Arthur	Amenia	7	10
+Arthur	Absaraka	17	33
+Arnegard	Alexander	12	15
+Argusville	Amenia	17	25
+Argusville	Absaraka	26	47
+Argusville	Abercrombie	45	45
+Ardoch	Adams	47	55
+Amenia	Absaraka	10	29
+Ambrose	Alamo	40	46
+Alsen	Agate	36	54
+Alsen	Adams	45	54
+*

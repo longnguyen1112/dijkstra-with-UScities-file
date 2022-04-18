@@ -1,0 +1,12 @@
+Augusta
+Montpelier
+Concord
+Boston
+Albany
+*
+Augusta	Concord	164	154
+Montpelier	Concord	118	117
+Montpelier	Albany	172	200
+Concord	Boston	68	75
+Boston	Albany	170	174
+*
